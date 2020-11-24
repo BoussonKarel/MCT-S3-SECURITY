@@ -54,17 +54,17 @@ Bedreigingen kunnen niet door 1 partij worden tegengehouden.
 **Availability**
 *IBAMAFLEX kunnen plat leggen.*
 
-> Backup maken: Availibility+
-> Backup wordt gestolen: Confidentiality-
+> **Backup maken:** Availibility+
+> *Backup wordt gestolen: Confidentiality-*
 > 
-> Backup encrypteren: Confidentiality+
-> Encryptiesleutel kwijt: Availibility-
+> **Backup encrypteren:** Confidentiality+
+> *Encryptiesleutel kwijt: Availibility-*
 > 
-> Encryptiesleutel op server zetten: Availibility+
-> Server brandt af, backups onbruikbaar: Availibility-
+> **Encryptiesleutel op server zetten:** Availibility+
+> *Server brandt af, backups onbruikbaar: Availibility-*
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMwNTc2Njg2LC01MjMzNTYxNTddfQ==
+eyJoaXN0b3J5IjpbNzcyNjI5OTAsLTUyMzM1NjE1N119
 -->
