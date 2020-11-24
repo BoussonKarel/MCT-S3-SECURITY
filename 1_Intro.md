@@ -54,8 +54,12 @@ Bedreigingen kunnen niet door 1 partij worden tegengehouden.
 **Availability**
 *IBAMAFLEX kunnen plat leggen.*
 
+> Backup maken: availibility
+> Backup wordt gestolen: integrity
+> 
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMzM1NjE1N119
+eyJoaXN0b3J5IjpbLTE3OTgwMjY3ODgsLTUyMzM1NjE1N119
 -->
