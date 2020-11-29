@@ -111,8 +111,17 @@ Je hebt de machtigingen van de persoon die is ingelogd.
 
 **"De ontslagen werknemer"**
 - Heeft toegang (nog steeds?) tot de organisatie
-- H
+- Heeft kennis over de werking van de organisatie
+- Heeft een sterke negatieve motivatie
+
+**Bedreigingen "Agenten"**
+De stereotiepe "hacker":
+- De blueprint opgevoerd door de media
+- Gebaseerd op reële figuren
+- Vormt een rolmodel voor een bepaalde subcultuur
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTkwMTYxMCwxMjM1NzAzNTUwLC0xMD
-AyNzI4MzkwXX0=
+eyJoaXN0b3J5IjpbLTE2NjA5ODU2NDEsMTIzNTcwMzU1MCwtMT
+AwMjcyODM5MF19
 -->
