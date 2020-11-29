@@ -140,8 +140,9 @@ White hat die niet helemaal proper komt, Black hat die wat afdwaalt.
   
 Met de juiste doelen soms over de lijn. Illegale dingen doen om soms nobele dingen te doen.
 
-### De 'ethi
+### De 'ethical' hacker
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzMzkyNTQwLDEyMzU3MDM1NTAsLTEwMD
-I3MjgzOTBdfQ==
+eyJoaXN0b3J5IjpbLTE1NDg1OTE3MzUsMTIzNTcwMzU1MCwtMT
+AwMjcyODM5MF19
 -->
