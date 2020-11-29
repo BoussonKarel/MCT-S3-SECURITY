@@ -110,8 +110,9 @@ Je hebt de machtigingen van de persoon die is ingelogd.
   - Motivatie
 
 **"De ontslagen werknemer"**
-
+- Heeft toegang (nog steeds?) tot de organisatie
+- H
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ2OTc5OTI2MSwxMjM1NzAzNTUwLC0xMD
+eyJoaXN0b3J5IjpbMTY0NTkwMTYxMCwxMjM1NzAzNTUwLC0xMD
 AyNzI4MzkwXX0=
 -->
