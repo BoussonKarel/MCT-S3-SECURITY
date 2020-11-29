@@ -127,8 +127,21 @@ L337 h4x0r 700l$ (Bedreigingen door grote aantallen)
 Hackers met veel kennis
 Hacker "ethics" (?!)
 
+#### Black hat
+Hacking activiteit voor persoonlijk gewin (ingehuurd)
 
+#### White hat
+Nobele mensen die hacking skills gebruiken “for  the  greater  good”, om beter  te  doen
+
+#### Gray hat
+Mensen die geen centjes hebben om deftig wasmiddel hebben om hun hoed te wassen.
+
+White hat die niet helemaal proper komt, Black hat die wat afdwaalt.
+  
+Met de juiste doelen soms over de lijn. Illegale dingen doen om soms nobele dingen te doen.
+
+### De 'ethi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3ODAzNzU1MywxMjM1NzAzNTUwLC0xMD
-AyNzI4MzkwXX0=
+eyJoaXN0b3J5IjpbLTYzMzkyNTQwLDEyMzU3MDM1NTAsLTEwMD
+I3MjgzOTBdfQ==
 -->
