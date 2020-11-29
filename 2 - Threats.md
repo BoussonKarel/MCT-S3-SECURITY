@@ -120,8 +120,15 @@ De stereotiepe "hacker":
 - Gebaseerd op reële figuren
 - Vormt een rolmodel voor een bepaalde subcultuur
 
+"Hacker" versus "Cracker"
+"Script kiddies" / "Wannbee"
+L337 h4x0r 700l$ (Bedreigingen door grote aantallen)
+
+Hackers met veel kennis
+Hacker "ethics" (?!)
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjA5ODU2NDEsMTIzNTcwMzU1MCwtMT
-AwMjcyODM5MF19
+eyJoaXN0b3J5IjpbLTg5MzM5MTQzNCwxMjM1NzAzNTUwLC0xMD
+AyNzI4MzkwXX0=
 -->
