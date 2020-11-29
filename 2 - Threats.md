@@ -102,8 +102,16 @@ Je hebt de machtigingen van de persoon die is ingelogd.
 
 ### Social Engineering
 **Bedreigingen "Agenten"**
-- Entiteiten aarvan de bedreiging uitgaa
+- Entiteiten waarvan de bedreiging uitgaat
+- Zijn intern of extern aan het bedrijf
+- Kwetsbaarheid voor een agent wordt bepaald door zijn;
+  - Toegangsniveau
+  - Kennis
+  - Motivatie
+
+**"De ontslagen werknemer"**
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4ODE2MDE1MiwxMjM1NzAzNTUwLC0xMD
+eyJoaXN0b3J5IjpbMTQ2OTc5OTI2MSwxMjM1NzAzNTUwLC0xMD
 AyNzI4MzkwXX0=
 -->
