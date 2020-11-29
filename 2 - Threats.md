@@ -144,8 +144,26 @@ Met de juiste doelen soms over de lijn. Illegale dingen doen om soms nobele ding
 Goed of slecht voor security?
 *Security by obscurity:* System security should not depend on the secrecy of the implementation or its components.
 
+**Penetration testing**
+Verificatie van beveiliging, maar ook... ongevraagd?
 
+**De 'ethical' hacker**
+Meldingsplicht?
+Limited disclosure? Full disclosure?
+Wetgeving? Ook internationaal?
+
+Soms grijze zone
+Steeds "a thin line"...
+
+**Limited disclosure**
+*Aan niemand zeggen, fabrikant zal de moeite niet willen doen.*
+
+**Full disclosure**
+*Zomaar online gooien naar iedereen*
+
+**Responsible  disclosure**
+*Zeggen aan de fabrikant, vragen hoeveel tijd ze nodig hebben. Zeggen dat je het publiceert x weken na hun oplossing bijvoorbeeld.*
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM2MjQyNjA0LC0xNDk2NTMyNzU0LDEyMz
+eyJoaXN0b3J5IjpbNjUyMjQ1MzMxLC0xNDk2NTMyNzU0LDEyMz
 U3MDM1NTAsLTEwMDI3MjgzOTBdfQ==
 -->
