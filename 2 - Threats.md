@@ -96,7 +96,10 @@ Je hebt de machtigingen van de persoon die is ingelogd.
 > Dan heb je een RAT op je pc (Remote Access Tool)
 
 ### Vreemde netwerken
+- Openbare netwerken kunnen worden afgeluisterd
+- Verkeer op niet vertrouwde netwerken kan worden omgeleid
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzMjIzNzU5LC0xMDAyNzI4MzkwXX0=
+eyJoaXN0b3J5IjpbMzA5NjM1MTksLTEwMDI3MjgzOTBdfQ==
 -->
