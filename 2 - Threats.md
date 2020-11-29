@@ -98,8 +98,10 @@ Je hebt de machtigingen van de persoon die is ingelogd.
 ### Vreemde netwerken
 - Openbare netwerken kunnen worden afgeluisterd
 - Verkeer op niet vertrouwde netwerken kan worden omgeleid
+![Vreemde netwerken](https://i.imgur.com/Sg8VzBv.png)
 
+### Social Engineering
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA5NjM1MTksLTEwMDI3MjgzOTBdfQ==
+eyJoaXN0b3J5IjpbMTIzNTcwMzU1MCwtMTAwMjcyODM5MF19
 -->
