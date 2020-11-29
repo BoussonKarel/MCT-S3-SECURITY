@@ -142,8 +142,10 @@ Met de juiste doelen soms over de lijn. Illegale dingen doen om soms nobele ding
 
 ### De 'ethical' hacker
 Goed of slecht voor security?
-Security by obscurity
+*Security by obscurity:* System security should not depend on the secrecy of the implementation or its components.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTY1MzI3NTQsMTIzNTcwMzU1MCwtMT
-AwMjcyODM5MF19
+eyJoaXN0b3J5IjpbNTM2MjQyNjA0LC0xNDk2NTMyNzU0LDEyMz
+U3MDM1NTAsLTEwMDI3MjgzOTBdfQ==
 -->
