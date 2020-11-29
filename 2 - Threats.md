@@ -86,7 +86,7 @@ Niet enkel PC's. Ook bankautomaten, medische...
 
 Enkel een BACKUP kan voldoende beschermen.
 
-** Hardware uit onbetrouwbare bron
+** Hardware uit onbetrouwbare bron**
 USB Rubber Ducky
 
 Je hebt de machtigingen van de persoon die is ingelogd.
@@ -96,5 +96,5 @@ Je hebt de machtigingen van de persoon die is ingelogd.
 > Dan heb je een RAT op je pc (Remote Access Tool)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDI3MjgzOTBdfQ==
+eyJoaXN0b3J5IjpbLTk3MzI2NDUxOCwtMTAwMjcyODM5MF19
 -->
