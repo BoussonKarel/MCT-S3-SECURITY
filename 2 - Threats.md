@@ -162,8 +162,15 @@ Steeds "a thin line"...
 *Zomaar online gooien naar iedereen*
 
 **Responsible  disclosure**
-*Zeggen aan de fabrikant, vragen hoeveel tijd ze nodig hebben. Zeggen dat je het publiceert x weken na hun oplossing bijvoorbeeld.*
+*Zeggen aan de fabrikant, vragen hoeveel tijd ze nodig hebben. Zeggen dat je het publiceert x weken na hun oplossing.*
+
+### Bedreigingen "Gebeurtenissen"
+- Brand
+- Stroomuitval
+- Overstroming
+- Diefstal
+- Aanslag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjUyMjQ1MzMxLC0xNDk2NTMyNzU0LDEyMz
-U3MDM1NTAsLTEwMDI3MjgzOTBdfQ==
+eyJoaXN0b3J5IjpbLTE2ODMyMjQ1NDQsLTE0OTY1MzI3NTQsMT
+IzNTcwMzU1MCwtMTAwMjcyODM5MF19
 -->
