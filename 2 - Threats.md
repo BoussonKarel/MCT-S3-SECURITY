@@ -101,7 +101,9 @@ Je hebt de machtigingen van de persoon die is ingelogd.
 ![Vreemde netwerken](https://i.imgur.com/Sg8VzBv.png)
 
 ### Social Engineering
-
+**Bedreigingen "Agenten"**
+- Entiteiten aarvan de bedreiging uitgaa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNTcwMzU1MCwtMTAwMjcyODM5MF19
+eyJoaXN0b3J5IjpbLTc4ODE2MDE1MiwxMjM1NzAzNTUwLC0xMD
+AyNzI4MzkwXX0=
 -->
