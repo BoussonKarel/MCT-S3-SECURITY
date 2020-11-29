@@ -101,7 +101,7 @@ Je hebt de machtigingen van de persoon die is ingelogd.
 ![Vreemde netwerken](https://i.imgur.com/Sg8VzBv.png)
 
 ### Social Engineering
-**Bedreigingen "Agenten"**
+### Bedreigingen "Agenten"
 - Entiteiten waarvan de bedreiging uitgaat
 - Zijn intern of extern aan het bedrijf
 - Kwetsbaarheid voor een agent wordt bepaald door zijn;
@@ -114,7 +114,7 @@ Je hebt de machtigingen van de persoon die is ingelogd.
 - Heeft kennis over de werking van de organisatie
 - Heeft een sterke negatieve motivatie
 
-**Bedreigingen "Agenten"**
+### Bedreigingen "De hacker"
 De stereotiepe "hacker":
 - De blueprint opgevoerd door de media
 - Gebaseerd op reële figuren
@@ -129,6 +129,6 @@ Hacker "ethics" (?!)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg5MzM5MTQzNCwxMjM1NzAzNTUwLC0xMD
+eyJoaXN0b3J5IjpbLTU3ODAzNzU1MywxMjM1NzAzNTUwLC0xMD
 AyNzI4MzkwXX0=
 -->
