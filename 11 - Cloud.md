@@ -9,7 +9,16 @@
     - Internet Carriers / overheden (Web Neutrality)
   - Integrity?
     - Malware / Synlocker / ...
+
+## Cloud diensten
+- Kan zeer handig zijn
+- Extra dienst = extra risico
+- Meerdere clouddiensten = informatie op meerdere plaatsen
+- Organisatie kan zelf niet weten waar alle informatie is opgeslagen
+- Gebruik enkel door de organisatie aanbevolen en goedgekeurde clouddiensten!
+
+## Acceptabel gebruik / Policy
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2MzEwMTUwMCwtMTc2MTI5OTMyLC0zMj
-A3MzEwNDUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTY2MTg2NTYsLTE3NjEyOTkzMiwtMzIwNz
+MxMDQ1LDczMDk5ODExNl19
 -->
