@@ -33,8 +33,9 @@ Volledige remote controle*
 ## Kennen
 - **Samsung Knox:** BYOD verhaal koppelen aan requirements business omgeving
   - Partitioneert je telefoon.
-  - Binnen Knox kan je apps i
+  - Binnen Knox kan je apps installeren. Applicaties hierbuiten hebben geen toegang tot de apps binnenin Knox.
+  - Hierbinnen heeft het bedrijf de toegang om de policies in te stellen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0OTA3OTYwMSwtNTA1NTUyOTU5LDE2Nz
+eyJoaXN0b3J5IjpbMTA2MjQ1MDUwOCwtNTA1NTUyOTU5LDE2Nz
 U1NjUzNTIsNzkwNjkxMTUwXX0=
 -->
