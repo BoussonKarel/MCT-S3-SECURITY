@@ -19,6 +19,7 @@ Bijlage bekijken!
 
 ## Risico's
 - "Defacement"
+  - *Attack on a website that changes the visual appearance*
 - Lek van credentials
 - Reputatie
 - Diefstal (shop)
@@ -32,6 +33,6 @@ Bijlage bekijken!
 - Prepared statements
 - Authenticatie frameworks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MDcwODA1MDYsLTIxMzAyMjY0MTYsLT
-E0OTU3MTQ5NjddfQ==
+eyJoaXN0b3J5IjpbMTQ5NjcwODU0MywtMjEzMDIyNjQxNiwtMT
+Q5NTcxNDk2N119
 -->
