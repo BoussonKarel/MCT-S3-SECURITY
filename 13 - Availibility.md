@@ -64,10 +64,15 @@ Vervalsen van informatie in de header
 - MAC Spoofing
 - E-mail spoofing
 
+## "Cloudflare"
+Attacks gebeuren zodanig veel dat het "regelmaat" is.
+Ze zijn erop voorzien.
+
+
 ## Availibility
 **Update <> Availibility**
 99,9% = 3 nines = 8,76u/jaar
 99,999% = 5 nines = 5,26m/jaar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4Mzc3OTg1Ml19
+eyJoaXN0b3J5IjpbLTE5MTQ2OTIzMDMsMTY4Mzc3OTg1Ml19
 -->
