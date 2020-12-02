@@ -17,8 +17,9 @@
 - Opgepast voor misleidende meldingen en advertenties
 - Laat je smartphone niet door derden (zoals kinderen) gebruiken
 
-#
+## Mobile malware
+Mobile malware is malware die specifiek je gsm als target heeft
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzMzMxNjk1MSwxNjc1NTY1MzUyLDc5MD
+eyJoaXN0b3J5IjpbLTUwNTU1Mjk1OSwxNjc1NTY1MzUyLDc5MD
 Y5MTE1MF19
 -->
