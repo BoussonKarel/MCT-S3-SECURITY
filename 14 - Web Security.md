@@ -26,7 +26,12 @@ Bijlage bekijken!
 - ...
 
 ## Remediation
+- Don't be stupid
+- Use (sanitation) libraries (no DIY)
+- Update site framework, plugins & libraries
+- Prepared statements
+- Authenticatie frameworks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODE1MDIyODcsLTIxMzAyMjY0MTYsLT
+eyJoaXN0b3J5IjpbLTE3MDcwODA1MDYsLTIxMzAyMjY0MTYsLT
 E0OTU3MTQ5NjddfQ==
 -->
