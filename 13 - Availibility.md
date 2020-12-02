@@ -65,6 +65,7 @@ Vervalsen van informatie in de header
 - E-mail spoofing
 
 ## "Cloudflare"
+![enter image description here](https://i.imgur.com/FnT21AF.png)
 Attacks gebeuren zodanig veel dat het "regelmaat" is.
 Ze zijn erop voorzien en hebben de brandbreedte ervoor.
 
@@ -76,5 +77,5 @@ Confidentiality? Cloudflare kan ALLES lezen!
 99,9% = 3 nines = 8,76u/jaar
 99,999% = 5 nines = 5,26m/jaar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEzODg5NzYxOCwxNjgzNzc5ODUyXX0=
+eyJoaXN0b3J5IjpbNjYwMTYwMzc2LDE2ODM3Nzk4NTJdfQ==
 -->
