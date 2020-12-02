@@ -69,7 +69,7 @@ Vervalsen van informatie in de header
 Attacks gebeuren zodanig veel dat het "regelmaat" is.
 Ze zijn erop voorzien en hebben de brandbreedte ervoor.
 
-Confidentiality? Cloudflare kan ALLES lezen!
+Confidentiality? Cloudflare kan ALLES lezen in principe!
 
 
 ## Availibility
@@ -77,5 +77,5 @@ Confidentiality? Cloudflare kan ALLES lezen!
 99,9% = 3 nines = 8,76u/jaar
 99,999% = 5 nines = 5,26m/jaar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwMTYwMzc2LDE2ODM3Nzk4NTJdfQ==
+eyJoaXN0b3J5IjpbLTE2MTk3ODY3MjUsMTY4Mzc3OTg1Ml19
 -->
