@@ -66,7 +66,9 @@ Vervalsen van informatie in de header
 
 ## "Cloudflare"
 Attacks gebeuren zodanig veel dat het "regelmaat" is.
-Ze zijn erop voorzien.
+Ze zijn erop voorzien en hebben de brandbreedte ervoor.
+
+Confidentiality? Cloudflare kan ALLES lezen!
 
 
 ## Availibility
@@ -74,5 +76,5 @@ Ze zijn erop voorzien.
 99,9% = 3 nines = 8,76u/jaar
 99,999% = 5 nines = 5,26m/jaar
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTQ2OTIzMDMsMTY4Mzc3OTg1Ml19
+eyJoaXN0b3J5IjpbMjEzODg5NzYxOCwxNjgzNzc5ODUyXX0=
 -->
