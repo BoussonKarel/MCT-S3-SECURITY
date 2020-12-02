@@ -18,7 +18,8 @@
 - Gebruik enkel door de organisatie aanbevolen en goedgekeurde clouddiensten!
 
 ## Acceptabel gebruik / Policy
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2MTg2NTYsLTE3NjEyOTkzMiwtMzIwNz
-MxMDQ1LDczMDk5ODExNl19
+eyJoaXN0b3J5IjpbLTMxOTc1NDEwLC0xNzYxMjk5MzIsLTMyMD
+czMTA0NSw3MzA5OTgxMTZdfQ==
 -->
