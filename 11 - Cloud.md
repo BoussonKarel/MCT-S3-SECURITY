@@ -27,8 +27,18 @@
 - E-mail / groupware oplossing
   - (Veiliger dan eigen Exchange-server)
 - Onfeilbaar? Perfect?
-- Threat model
+  - Office 365 down = halve economie plat
+- Threat model!
+- Andere threats dan bij een lokale server?
+
+### Online boekhoudsoftware
+**Nadelen**
+Vendor lock-in?
+Vertrouwelijkheid?
+Prijs? Continuïteit?
+
+**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxMjM3ODYzLC0zMTk3NTQxMCwtMTc2MT
+eyJoaXN0b3J5IjpbMTg2NzA0NTc3LC0zMTk3NTQxMCwtMTc2MT
 I5OTMyLC0zMjA3MzEwNDUsNzMwOTk4MTE2XX0=
 -->
