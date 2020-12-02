@@ -7,7 +7,12 @@
 - Authenticatie / Escalation
 - Cross site scripting
 
-OWASP TOP 10 BEKIJKEN
+## Most common problems
+### OWASP TOP 10
+Bijlage bekijken!
+
+##
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcwNzE4NDk0LC0xNDk1NzE0OTY3XX0=
+eyJoaXN0b3J5IjpbLTIxMzAyMjY0MTYsLTE0OTU3MTQ5NjddfQ
+==
 -->
