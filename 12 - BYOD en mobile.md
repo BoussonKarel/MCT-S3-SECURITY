@@ -11,7 +11,14 @@
 - Vaak gebruikt om wachtwoorden te herstellen
 - Niet alle apps zijn te vertrouwen
 - App kan info naar de ontwikkelaar sturen (privacysettings)
+---
+- Vergrendel je smartphone altijd
+- Gebruik geen telefoon met gevoelige gegevens voor spelletjes
+- Opgepast voor misleidende meldingen en advertenties
+- Laat je smartphone niet door derden (zoals kinderen) gebruiken
+
+#
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxMzA3NDIxOSwxNjc1NTY1MzUyLDc5MD
+eyJoaXN0b3J5IjpbMTIzMzMxNjk1MSwxNjc1NTY1MzUyLDc5MD
 Y5MTE1MF19
 -->
