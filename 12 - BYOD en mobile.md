@@ -6,6 +6,8 @@
 - Problemen met ondersteuning
 
 ### Mobiele apparaten
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NTU2NTM1Miw3OTA2OTExNTBdfQ==
+eyJoaXN0b3J5IjpbLTE2MDgxNTEzODksMTY3NTU2NTM1Miw3OT
+A2OTExNTBdfQ==
 -->
