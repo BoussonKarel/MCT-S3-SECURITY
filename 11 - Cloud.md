@@ -18,8 +18,17 @@
 - Gebruik enkel door de organisatie aanbevolen en goedgekeurde clouddiensten!
 
 ## Acceptabel gebruik / Policy
+- Geeft vaak de indruk de gebruiker te willen beperken
+- Balans tussen acceptabel risico en bruikbaarheid
+- Noodzakelijk om systemen beheersbaar te houden
+- Dient steeds strikt te worden opgevolgd!
 
+## Migratie naar clouddiensten
+- E-mail / groupware oplossing
+  - (Veiliger dan eigen Exchange-server)
+- Onfeilbaar? Perfect?
+- Threat model
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxOTc1NDEwLC0xNzYxMjk5MzIsLTMyMD
-czMTA0NSw3MzA5OTgxMTZdfQ==
+eyJoaXN0b3J5IjpbODMxMjM3ODYzLC0zMTk3NTQxMCwtMTc2MT
+I5OTMyLC0zMjA3MzEwNDUsNzMwOTk4MTE2XX0=
 -->
