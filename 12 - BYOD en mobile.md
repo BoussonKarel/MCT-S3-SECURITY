@@ -23,9 +23,18 @@ Mobile malware is malware die specifiek je gsm als target heeft
 
 Android gebruikers zijn de grootste slachtoffers van mobile malware.
 ![Malware types on android](https://i.imgur.com/1d4a6ST.png)
+
 Maar iPhone gebruikers hebben de ergste malware.
 
+*MDM (Mobile Device Management)
+Volledige remote controle*
+![MDM Malware](https://i.imgur.com/BMEMTYZ.png)
+
+## Kennen
+- **Samsung Knox:** BYOD verhaal koppelen aan requirements business omgeving
+  - Partitioneert je telefoon.
+  - Binnen Knox kan je apps i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzMDUxMzI4MiwtNTA1NTUyOTU5LDE2Nz
+eyJoaXN0b3J5IjpbLTI0OTA3OTYwMSwtNTA1NTUyOTU5LDE2Nz
 U1NjUzNTIsNzkwNjkxMTUwXX0=
 -->
