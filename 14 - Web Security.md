@@ -11,8 +11,11 @@
 ### OWASP TOP 10
 Bijlage bekijken!
 
-##
+## Scanning
+
+## Scanning
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzAyMjY0MTYsLTE0OTU3MTQ5NjddfQ
-==
+eyJoaXN0b3J5IjpbLTEwOTU3OTMzMTAsLTIxMzAyMjY0MTYsLT
+E0OTU3MTQ5NjddfQ==
 -->
