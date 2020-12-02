@@ -19,7 +19,8 @@
 
 ## Mobile malware
 Mobile malware is malware die specifiek je gsm als target heeft
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNTU1Mjk1OSwxNjc1NTY1MzUyLDc5MD
-Y5MTE1MF19
+eyJoaXN0b3J5IjpbMTUyODQ5NjU1OSwtNTA1NTUyOTU5LDE2Nz
+U1NjUzNTIsNzkwNjkxMTUwXX0=
 -->
