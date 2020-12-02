@@ -37,8 +37,12 @@ Vendor lock-in?
 Vertrouwelijkheid?
 Prijs? Continuïteit?
 
-**
+**Voordelen / USP**
+Toegang van overal
+Samenwerken met derden
+Automatische back-up
+...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzA0NTc3LC0zMTk3NTQxMCwtMTc2MT
+eyJoaXN0b3J5IjpbNzYzMDQxMjgxLC0zMTk3NTQxMCwtMTc2MT
 I5OTMyLC0zMjA3MzEwNDUsNzMwOTk4MTE2XX0=
 -->
