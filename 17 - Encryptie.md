@@ -121,6 +121,9 @@ SSL Certificaten
     - MD5 is dood
 - *Voorbeeld: check op rekeningnummers / creditkaarten*
   - *Beveiligd tegen het verkeerd INGEVEN, cijfertje verkeerd intikken.*
+
+## PKI
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTM3NDkyNDU1XX0=
+eyJoaXN0b3J5IjpbLTQwOTM0OTU2NSw1Mzc0OTI0NTVdfQ==
 -->
