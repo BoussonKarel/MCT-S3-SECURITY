@@ -339,16 +339,21 @@ Denial of Service: Het overspoelen van een server met TCP en UDP packets.
 Distributed Denial of Service: DoS maar op meerdere computers en connecties, vaak geïnfecteerde thuis-PC's.
 
 **Wat is SYN-flooding?**
-- **A --> SYN --> B** 
-_A stuurt 1 pakketje_
+-A --> SYN --> B 
 
-- **B <-- SYNACK <-- A** 
-_B ontvangt het pakketje en zet er één van zijn workers op, die verantwoordelijk is voor afhandeling. Worker bestaat uit Process, Memory..._
-_Ondertussen stuurt hij een SYNACK._
+_A stuurt 1 SYN pakketje_
+
+- B <-- SYNACK <-- A
+
+_B ontvangt het pakketje en zet er één van zijn workers op, die verantwoordelijk is voor afhandeling. Worker = Process, Memory..._
+
+_Ondertussen stuurt hij een SYNACK naar A._
 
 _Wanneer de workers op zijn doet hij aan Forking: meer workers aanmaken. Dit vergt veel CPU en memory_
 
-**A --> ACK --> B**  _A negeert de SYNACK_
+- ~~A --> ACK --> B~~
+
+_A negeert de SYNACK_
 
 _De worker zal wachten en blijven pakketjes sturen_
 _De worker zal wenen tot zijn wachttijd expired._
@@ -487,5 +492,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTIwOTM3NDIsNzA1NTkyNjQwXX0=
+eyJoaXN0b3J5IjpbLTU2MzQxNzE1OSw3MDU1OTI2NDBdfQ==
 -->
