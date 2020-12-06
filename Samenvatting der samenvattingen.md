@@ -465,6 +465,18 @@ Het vervangen van karakters door andere karakters.
 **Wat is transpositie?**
 Het opschuiven van een karakter in het alfabet met x plaatsen.
 
+**Wat is symmetrische encryptie?**
+Je hebt een sleutel en algoritme.
+Aan de hand van deze kan je zowel plain text naar code omzetten als omgekeerd.
+
+Er is geen geheimhouding of authenticatie, maar het is wel eenvoudig en snel.
+
+**Welk type encryptie is AES?**
+
+**Welk type encryptie is RSA?**
+
+**Welk type encryptie is DES?**
+
 **Wat is hashing?**
 De transformatie van een string in een bepaald format die de originele string representeert.
 
@@ -535,5 +547,5 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mjc3OTE2NDIsNzA1NTkyNjQwXX0=
+eyJoaXN0b3J5IjpbLTE3MTcxMzgyMTMsNzA1NTkyNjQwXX0=
 -->
