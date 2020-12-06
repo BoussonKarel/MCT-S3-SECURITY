@@ -43,7 +43,7 @@ Een bruikbare infrastructuur kan nooit 100% veilig zijn: *voorzichtig afwegen va
 ## Defense in depth
 Nooit op 1 enkele maatregel vertrouwen
 - Layered security
-- Strategie bij incidet
+- Strategie bij incident
 - Plannen en documenteren
 
 ![Defense in depth](https://i.imgur.com/ZK6BaM2.png)
@@ -53,5 +53,5 @@ Nooit op 1 enkele maatregel vertrouwen
 - Do's & Dont's
 - [Gratis te downloaden](http://iccbelgium.be/becybersecure/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NjYxNzE0M119
+eyJoaXN0b3J5IjpbMzcwMzM3MzU5LDEwNzY2MTcxNDNdfQ==
 -->
