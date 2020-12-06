@@ -543,7 +543,12 @@ Het onderzoeken van een product om daaruit af te leiden wat de eisen zijn waaraa
 **Wat is Shellcode?**
 Stuk uitvoerbare code voorgesteld door een sequentie hexadecimaal geëncodeerde karakters met als bedoeling die code ergens gaan te injecteren in een invulveld gevoelig voor buffer overflow.
 
-**Enumeration**: enumereren van kwetsbaarheden door nmap, vulnerability scanner...
+**Wat is fuzzing?**
+Random dinge proberen tot iets overwacht gebeurt: crash en deze proberen exploiteren.
+
+*Bijvoorbeeld random bytes veranderen in een pdf.*
+
+**Wat is Enumeration**: enumereren van kwetsbaarheden door nmap, vulnerability scanner...
 
 # Algemeen
 Antwoorden op complexe vragen soms heel evident
@@ -579,5 +584,5 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQyMzczMjAyLDcwNTU5MjY0MF19
+eyJoaXN0b3J5IjpbLTI3MTg5Njc4MCw3MDU1OTI2NDBdfQ==
 -->
