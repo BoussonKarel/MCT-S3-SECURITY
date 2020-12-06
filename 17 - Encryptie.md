@@ -44,7 +44,6 @@ Blowfish (variabele sleutellengte)*
 
 ## Asymmetrische Encryptie
 **Public key encryptie**
-- *Voorbeeld: RSA, ECC*
 - Geheimhouding
 - Authenticatie
 - Werkt met sleutelPAREN
@@ -62,7 +61,8 @@ Zeer berekeningsintensief
 |Kan clientberichten decoderen met private sleutel.|Kan serverberichten controleren met publieke sleutel.|
 ||Extra controle: De afzender is "legit", want de sleutel klopt.|
 
-Examen: wat is AES? Symmetrische...
+*Voorbeeld: RSA, ECC*
+**Examen:**at is AES? Symmetrische...
 Wat is RSA? Assymetrische. Intensief...
 
 ## Hashing
@@ -119,6 +119,6 @@ SSL Certificaten
 ## PKI
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjMyOTA2LDc4NzQzNTYxOSwtNDA5Mz
-Q5NTY1LDUzNzQ5MjQ1NV19
+eyJoaXN0b3J5IjpbMTYxNTcyNzIxNiw3ODc0MzU2MTksLTQwOT
+M0OTU2NSw1Mzc0OTI0NTVdfQ==
 -->
