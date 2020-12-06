@@ -285,16 +285,16 @@ Het eerste virus die de BIOS wist.
 **Wat zijn homoglyphs (homogliefen)?**
 Een karakter dat er uitziet als één uit een ander alfabet.
 
-Wat is scareware, homoglyphen...
-
 # Cloud
-Vrij algemeen.
-
 Kunnen aantonen dat je in staat bent na te denken over concepten: voordelen, nadelen...
 
 "Casusvragen"
+*Firma overweegt over te stappen: wat kan je hem zeggen over dit aspect?*
 
-Firma overweegt over te stappen: wat kan je hem zeggen over dit aspect?
+**Wat zijn de voor- en nadelen van een online boekhoudpakket?**
+- Nadelen
+- Vendor lock-in? Vertrouwelijkheid? Prijs? Continuïteit?
+- Voordelen / USP**  Toegang van overal Samenwerken met derden Automatische back-up ...
 
 # BYOD
 **Wat is BOYD?**
@@ -442,5 +442,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTU3OTIzOTEsNzA1NTkyNjQwXX0=
+eyJoaXN0b3J5IjpbMTc1NTg4Nzc5Nyw3MDU1OTI2NDBdfQ==
 -->
