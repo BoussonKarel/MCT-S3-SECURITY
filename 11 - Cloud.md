@@ -6,9 +6,9 @@
   - Confidentiality?
     - *PRISM (afluisterprogramma NSA)*
   - Availibility?
-    - Internet Carriers / overheden (Web Neutrality)
+    - *Internet Carriers / overheden (Web Neutrality)*
   - Integrity?
-    - Malware / Synlocker / ...
+    - *Malware / Synlocker / ...*
 
 ## Cloud diensten
 - Kan zeer handig zijn
@@ -43,7 +43,7 @@ Samenwerken met derden
 Automatische back-up
 ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MDM0MjEzNSw3NjMwNDEyODEsLTMxOT
+eyJoaXN0b3J5IjpbLTg0MDczMjY0NSw3NjMwNDEyODEsLTMxOT
 c1NDEwLC0xNzYxMjk5MzIsLTMyMDczMTA0NSw3MzA5OTgxMTZd
 fQ==
 -->
