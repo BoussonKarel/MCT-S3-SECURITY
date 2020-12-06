@@ -164,12 +164,12 @@ Algemene tips
 **Waarom zijn wachtwoorden nutteloos?**
 De manier van aanvallen verschuift. Ze gaan er niet meer vanuit dat het kraakbaar is en doen vaak aan bv. spear phishing: fake login, keylogger...
 
-**Wat is beveiliging op hebben-basis?**
+**Geef een voorbeeld van beveiliging op hebben-basis?**
 Smartcards, dongles, transponders, digipass, Google Authenticator...
 
-Op basis van tijd, datum en een gedeeld geheim tussen server en authenticator wordt telkens een nieuw wachtwoord gegenereerd.
+*Op basis van tijd, datum en een gedeeld geheim tussen server en authenticator wordt telkens een nieuw wachtwoord gegenereerd.*
 
-**Wat is beveiliging op zijn-basis?**
+**Geef een voorbeeld van beveiliging op zijn-basis?**
 Iris scanners, vingerafdrukken, stemherkenning...
 
 **Wat is Privilege escalation?**
@@ -597,6 +597,6 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMwNDE3MDgwLDEzNDU3NDUxMzIsNzA1NT
+eyJoaXN0b3J5IjpbNDU4MDI0MjI4LDEzNDU3NDUxMzIsNzA1NT
 kyNjQwXX0=
 -->
