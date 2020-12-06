@@ -115,8 +115,15 @@ SSL Certificaten
   - *Beveiligd tegen het verkeerd INGEVEN, cijfertje verkeerd intikken.*
 
 ## PKI
+![enter image description here](https://i.imgur.com/A5r9ZG8.png)
 
+![enter image description here](https://i.imgur.com/nsilNeY.png)
+
+![enter image description here](https://i.imgur.com/Zs35uLE.png)
+
+### Public Key Infrastructure
+![enter image description here](https://i.imgur.com/9AOiOy1.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODI5MzgyOTQsLTMxNDcyOTk0Miw3OD
-c0MzU2MTksLTQwOTM0OTU2NSw1Mzc0OTI0NTVdfQ==
+eyJoaXN0b3J5IjpbMTc1NzI3NjAyMiwtMzE0NzI5OTQyLDc4Nz
+QzNTYxOSwtNDA5MzQ5NTY1LDUzNzQ5MjQ1NV19
 -->
