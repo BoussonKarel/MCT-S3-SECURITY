@@ -221,9 +221,6 @@ Een penetratietest is een toets van één of meerdere computersystemen op kwetsb
 **Wat is Enumeration?**
 Het 'opsommen' van kwetsbaarheden door nmap, vulnerability scanner...
 
-Gebruik v tools
-vulnerabilities
-
 # Sociale media
 **Wat is Metadata?**
 Extra data die informatie geeft over andere data.
@@ -548,8 +545,6 @@ Random dinge proberen tot iets overwacht gebeurt: crash en deze proberen exploit
 
 *Bijvoorbeeld random bytes veranderen in een pdf.*
 
-**Wat is Enumeration**: enumereren van kwetsbaarheden door nmap, vulnerability scanner...
-
 # Algemeen
 Antwoorden op complexe vragen soms heel evident
 - Gebruik standaardoplossing, houd je er niet mee bezig
@@ -584,5 +579,5 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MTg5Njc4MCw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbMTM0NTc0NTEzMiw3MDU1OTI2NDBdfQ==
 -->
