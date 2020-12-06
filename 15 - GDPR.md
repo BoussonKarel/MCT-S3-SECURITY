@@ -63,9 +63,9 @@
   - Awareness creëren
 
 ## Gedragscode voor de informatiebeheerder
-### Gedragscode
 - Wat mag een beheerder doen?
 + Waar stopt de privacy van een gebruiker?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxMTA2ODQ3LDM5Mzg1NTA1MV19
+eyJoaXN0b3J5IjpbMTIzNjY1OTkwOCw3MzExMDY4NDcsMzkzOD
+U1MDUxXX0=
 -->
