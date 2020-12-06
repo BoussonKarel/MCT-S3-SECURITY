@@ -312,7 +312,7 @@ Het bedrijf heeft toegang om hierbinnen policies in te stellen.
 
 **Mobile malware bestaat enkel bij Android.**
 Niet waar.
-*(meer vbij Android, maar vaak erger bij iOS)*
+*(Meer voorkomend bij Android, maar vaak erger bij iOS)*
 
 
 Eigenschappen.
@@ -457,5 +457,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNzQyODc3Miw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbLTE1MjE4MDMyMCw3MDU1OTI2NDBdfQ==
 -->
