@@ -55,7 +55,7 @@ Factuurfraude
 Via sms, via WhatsApp
 
 **Vishing**
-Phishing maar dan met een video.
+Phishing maar dan met 'voice'.
 Overtuigender > meer contact.
 
 **Money mules**
@@ -165,7 +165,7 @@ Steeds "a thin line"...
 - Diefstal
 - Aanslag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNTI5NjA1Miw3NjI5ODM2MDAsLTE2OD
-MyMjQ1NDQsLTE0OTY1MzI3NTQsMTIzNTcwMzU1MCwtMTAwMjcy
-ODM5MF19
+eyJoaXN0b3J5IjpbMjAxMjQxNjM1MywyMDE1Mjk2MDUyLDc2Mj
+k4MzYwMCwtMTY4MzIyNDU0NCwtMTQ5NjUzMjc1NCwxMjM1NzAz
+NTUwLC0xMDAyNzI4MzkwXX0=
 -->
