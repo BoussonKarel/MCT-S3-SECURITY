@@ -26,17 +26,17 @@ Je krijgt uitleg, eventueel een admin account. Je kan zien welke software en inf
 Algemene info, bedrijfsinfo:
 - E-mailadressen
 - Organogram
-- Leveranciers (toetsenborden met keyloggers)
+- Leveranciers (*toetsenborden met keyloggers*)
 
-Inzetbaar voor social engineering
-Spear-phishing
++ **Inzetbaar voor social engineering**
++ **Spear-phishing**
 
-Tools & attack surfaces
-- Google
-- DNS
-- Sociale netwerken
-- Website
-- ...
+- **Tools & attack surfaces**
+  - Google
+  - DNS
+  - Sociale netwerken
+  - Website
+  - ...
 
 ## Reconaisance Fase 2 / Netwerk scanning
 *Nmap, WireShark...*
@@ -74,5 +74,5 @@ A.d.h.v. RAT (Remote Access Tool), backdoors...
 - Condifentiality !
 - Legaliteit !
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzQ5NTk5NCwtOTc0MDE1NDcwXX0=
+eyJoaXN0b3J5IjpbLTE0MzI0NDc2NzcsLTk3NDAxNTQ3MF19
 -->
