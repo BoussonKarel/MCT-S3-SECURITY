@@ -3,6 +3,7 @@
 
 Een techniek waarbij een computerkraker een aanval op computersystemen tracht te ondernemen door de zwakste schakel in de computerbeveiliging, de mens, te kraken.
 
+---
 - "The art of deception" (bedrog)
 - De menselijke schakel in Security
 - Misbruik van inherente psychologische kenmerken van mensen
@@ -38,5 +39,5 @@ Vrij simpel implementeerbaar
 ![WiFi Pineapple](https://i.imgur.com/Ymf15MI.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI4ODc4MzEzLC0xODk1MjUyMDEzXX0=
+eyJoaXN0b3J5IjpbLTcyOTU4Nzk0NCwtMTg5NTI1MjAxM119
 -->
