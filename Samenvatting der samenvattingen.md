@@ -435,10 +435,7 @@ Tijd nodig om terug te zetten, terug operationeel te zijn, hoe je back-ups neemt
 Security Audit:
 Wie? Wat? Hoe?
 
-Self assessment / externe audit / pentest / red teaming.
-
-**Wat is self assessment?**
-Het herbekijken vna pro
+Self assessment, externe audit, pentest, red teaming...
 
 **Hoe meten we de bedreiging?**
 Threat Intelligence
@@ -446,6 +443,10 @@ Threat Intelligence
 # IOT en ICS
 **Wat is Stuxnet?**
 Een schadelijk computerprogramma die zich focuste op Nucleaire systemen.
+
+**Wat is SCADA?**
+Supervisory Control And Data Acquisition:
+Het verzamelen, doorsturen, verwerken en visualiseren van meet- en regelsignalen van verschillende machines in grote industriële systemen.
 
 # Encryptie
 **Wat is encryptie?**
@@ -519,6 +520,7 @@ Antwoorden op complexe vragen soms heel evident
 | RPO | Recovery Point Objective |
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
+| SCADA
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcwNDU4NTE0LDcwNTU5MjY0MF19
+eyJoaXN0b3J5IjpbLTExMTE0NDc0NTgsNzA1NTkyNjQwXX0=
 -->
