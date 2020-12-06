@@ -19,27 +19,28 @@ Alles versleuteld = minder beschikbaar
 - One-time pad
 
 ## Symmetrische Encryptie
-Sleutel + algoritme
-Plain text <-> code
+**Sleutel + algoritme**
+Plain text <-> code (met zelfde kennis kan je beide)
 
 - Geheimhouding
  - GEEN authenticatie
  - Snel en eenvoudig
  
-*Voorbeeld: DES*
-- Block-cipher van 64 bit
-- 16 encryptiecycli met telkens andere subkey
-- Bitlengte van de sleutel is bepalend, 56 bit is tegenwoordig te laag
++ **DES**
+  + *Block-cipher van 64 bit*
+  + *16 encryptiecycli met telkens andere subkey*
+  + *Bitlengte van de sleutel is bepalend, 56 bit is tegenwoordig te laag*
 
 [Toffe cartoon](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
 
 *Te kennen voorbeelden: DES en AES*
 (Te kraken, bv. door NSA)
 
-**Tripple DES, 2 of 3 sleutels**
+- **Tripple DES, 2 of 3 sleutels**
 Factor 3 moeilijker (na 1 kraken, nog 1 kraken, nog 1...)
-- Verhoogde veiligheid
-- Kan in hardware
+  - Verhoogde veiligheid
+  - Kan in hardware
+
 **AES** / Rijndael
 IDEA
 CAST-128
@@ -122,6 +123,6 @@ SSL Certificaten
 ## PKI
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA1MjU5Mjc3OSw3ODc0MzU2MTksLTQwOT
-M0OTU2NSw1Mzc0OTI0NTVdfQ==
+eyJoaXN0b3J5IjpbNjc4OTczMTQ0LDc4NzQzNTYxOSwtNDA5Mz
+Q5NTY1LDUzNzQ5MjQ1NV19
 -->
