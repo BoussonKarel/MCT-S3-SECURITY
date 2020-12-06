@@ -89,14 +89,10 @@ Bepaalde string omzetten in iets van een bepaald format.
 ## Veilige websites
 |  |  |
 |--|--|
-| HTTP**S**:// | "Veilige verbindingen" (SSL) |
-| HTTP:// | On
+| HTTP**S**:// | "Veilige" verbindingen (SSL) |
+| HTTP:// | "Onveilige" verbindingen
 
- - http**s**:// > "
- -veilige” verbindingen (SSL)
- - http://
-   - “onveilige” verbindingen
- + Kwaadwillige sites kunnen HTTPS gebruiken!
+ + Kwaadwillige sites kunnen "HTTPS" gebruiken!
  + SSL betekent enkel dat gegevens niet kunnen worden afgeluisterd!
 
 ## Praktisch gebruik
@@ -121,6 +117,6 @@ SSL Certificaten
 ## PKI
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzgwNTIyNDA3LC0zMTQ3Mjk5NDIsNzg3ND
-M1NjE5LC00MDkzNDk1NjUsNTM3NDkyNDU1XX0=
+eyJoaXN0b3J5IjpbLTE4ODI5MzgyOTQsLTMxNDcyOTk0Miw3OD
+c0MzU2MTksLTQwOTM0OTU2NSw1Mzc0OTI0NTVdfQ==
 -->
