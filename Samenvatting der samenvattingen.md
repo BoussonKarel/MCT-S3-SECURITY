@@ -229,9 +229,12 @@ vulnerabilities
 
 # Sociale media
 **Wat is Metadata?**
-Extra data opgeslagen bij het ne
+Extra data die informatie geeft over andere data.
+*Bij een smartphone foto is dat bijvoorbeeld de locatie, exacte datum/tijd, camera...*
 
-Oversharing
+**Wat is Oversharing?**
+Wanneer je alles op sociale media plaatst, vertel je eigenlijk alles aan wildvre
+
 Waarmee moet je opletten
 **Wat is social engeneering?**
 
@@ -417,5 +420,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NjcxMDk3Myw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbLTEyMzM5ODUwNzEsNzA1NTkyNjQwXX0=
 -->
