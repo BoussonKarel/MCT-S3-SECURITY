@@ -240,11 +240,19 @@ Een techniek waarbij een computerkraker een aanval op computersystemen tracht te
 Een vorm van social engineering waarbij een individu een smoesje verzint om gevoelige data te verzamelen.
 *Bijvoorbeeld voordoen als iemand in uniform.*
 
+**Hoe informatielekken voorkomen?**
+- Afval met gevoelige inhoud vernietigen.
+- Voorzichtig zijn met vertrouwelijke informatie.
+- Geen kritische info op toestellen of prikborden.
+
 **Rekening houden ermee bij beantwoording van ALLE vragen.**
 
 # Wireless
 **Wat is de ISM band?**
 De industriële, wetenschappelijke en medische (ISM) radiobanden zijn radiobanden (delen van het radiospectrum) die internationaal zijn gereserveerd voor het gebruik van radiofrequentie (RF) energie voor industriële, wetenschappelijke en andere medische doeleinden dan telecommunicatie.
+
+**Wat is de een keylogger?**
+Een vorm van spuware die elke toetsaanslag vastlegt
 
 **Wat is Proprietary encryption?**
 Proprietary encryption (bedrijfseigen cryptografie) is een term die wordt gebruikt om aangepaste coderingstechnieken te beschrijven die door de ontwerpers geheim worden gehouden om extra beveiliging toe te voegen.
@@ -416,5 +424,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzIxMTY1ODQsNzA1NTkyNjQwXX0=
+eyJoaXN0b3J5IjpbLTk5ODUxMjE3NSw3MDU1OTI2NDBdfQ==
 -->
