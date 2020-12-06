@@ -382,18 +382,14 @@ Een aanval van een website die de visuele uitstraling aanpast.
 **Don't reinvent the wheel, don't DIY, use libraries!**
 
 # GDPR & Privacy
+**Wat zijn drie belangrijke punten bij het beschermen van persoonlijke data?**
 **CIA & GDPR**
-Beschikbaar  houden, beschermen tegen verlies
-Confidentieel  houden, beschermen tegen derden
-Integriteitbeschermen tegen ongeoorloofde aanpassingen
+Availibility: beschermen tegen verlies
+Condifentiality: beschermen tegen derden
+Integrity: beschermen tegen ongeoorloofde aanpassingen
 
 **Wat is GDPR**
 De GDPR of General Data Protection Regulation (Algemene Verordening Gegevensbescherming) is een Europese verordening die de regels voor de verwerking van persoonsgegevens door particuliere bedrijven en overheidsinstanties in de hele Europese Unie standaardiseert.
-
-**3 belangrijke punten bij protection van personal data**
--   Gegevens **beschikbaar** houden, beschermen tegen verlies
--   Gegevens **confidentieel** houden, beschermen tegen derden
--   waken over de **integriteit** van de gegevens, beschermen tegen ongeoorloofde aanpassingen.
 
 **Wat is een DPO?**
 De Data Protection Officer is verantwoordelijk voor persoonlijke data binnen een bedrijf. Elk bedrijf moet een DPO hebben.
@@ -500,5 +496,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk4NTUxMjQ4LDcwNTU5MjY0MF19
+eyJoaXN0b3J5IjpbLTE0NDc0MDIyODksNzA1NTkyNjQwXX0=
 -->
