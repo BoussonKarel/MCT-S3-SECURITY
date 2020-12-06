@@ -39,7 +39,9 @@
 ### Buiten het kantoor
 - Openbare netwerken ⚠
   - *Houd je aan de voorschriften, policy (VPN)...*
-+ Deel noo
++ Deel nooit interne informatie met derden
+- Wees waakzaam over wie kan meeluisteren
++ Diefstal! Uitlezen zelfs indien beveiligd...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2NzY0OTY5MCwzOTM4NTUwNTFdfQ==
+eyJoaXN0b3J5IjpbMTg2MjczMTQ5NywzOTM4NTUwNTFdfQ==
 -->
