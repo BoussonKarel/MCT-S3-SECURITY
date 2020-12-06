@@ -9,7 +9,10 @@
 
 ## Most common problems
 ### OWASP TOP 10
-Bijlage bekijken!
+- **Injection**
+- **Broken authentication**
+- **Sensitive Data Exposure**
+- **External En
 
 ## Scanning
 - Nessus, Nikto, OpenVAS...
@@ -33,6 +36,6 @@ Bijlage bekijken!
 - Prepared statements
 - Authenticatie frameworks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NjcwODU0MywtMjEzMDIyNjQxNiwtMT
-Q5NTcxNDk2N119
+eyJoaXN0b3J5IjpbLTExNTgwNTM4OTQsLTIxMzAyMjY0MTYsLT
+E0OTU3MTQ5NjddfQ==
 -->
