@@ -27,7 +27,7 @@ Bob berekent dat 6 tot de macht 13 modulo 17 gelijk is aan 10.
 
 Diffie-Hellman key exchange compleet. De secret key is 10.
 
-**Cia model**
+**CIA model**
 
 -   Confidentiality --> Vertrouwelijkheid
 -   Integrity --> Integriteit
@@ -275,5 +275,5 @@ NSEC3 is nu de verbeterde versie van NSEC die ervoor zorgt dat de dns records ha
 -   ICS => Industrial Control System
 -   SCADA => Supervisory Control And Data Acquisition
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Njg5NTQ4MzldfQ==
+eyJoaXN0b3J5IjpbNDc2NDg5MjU3LC0xOTY4OTU0ODM5XX0=
 -->
