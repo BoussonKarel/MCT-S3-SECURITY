@@ -205,8 +205,7 @@ Een penetratietest is een toets van één of meerdere computersystemen op kwetsb
 *Je krijgt uitleg, eventueel een admin account. Je kan zien welke software en infrastructuur ze gebruiken.*
 
 - Crystal box testing
-*Korte black-b
-*Eerst kort een black box test (maximum tijd die je eraan besteedt) zonder al te veel resources erin te steken of gigantisch je best te doen. Afhankelijk van de resultaten verder testen: Wat kan een gewone user, met admin account wat testen...*
+*Korte black-box gevolgd zonder al teveel resources, daarna wat verder testen: wat kan een user, admin tools gebruiken... Heeft voordelen van zowel white als black-box testing.*
 
 **Wat zijn de verschillende (Reconaisance) fases?**
 1. Information gathering
@@ -229,7 +228,9 @@ Gebruik v tools
 vulnerabilities
 
 # Sociale media
-Metadata
+**Wat is Metadata?**
+Extra data opgeslagen bij het ne
+
 Oversharing
 Waarmee moet je opletten
 **Wat is social engeneering?**
@@ -416,5 +417,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTU1MzMyMSw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbLTU2NjcxMDk3Myw3MDU1OTI2NDBdfQ==
 -->
