@@ -185,6 +185,7 @@ Het misbruiken van een bug, ontwerpfout... in een besturingssysteem of softwaret
 - Harddisk
 - USB-stick
 - Cloud back-up
+- ...
 
 **Wat zijn de eigenschappen van een correcte back-up?**
 Ze zijn bij voorkeur offline.
@@ -597,6 +598,6 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTA2ODUwNjIsMTM0NTc0NTEzMiw3MD
+eyJoaXN0b3J5IjpbLTE4OTk3OTIyOTMsMTM0NTc0NTEzMiw3MD
 U1OTI2NDBdfQ==
 -->
