@@ -22,7 +22,8 @@ Je krijgt uitleg, eventueel een admin account. Je kan zien welke software en inf
 - **Wettelijke beperkingen!!**
 - **Wat met aansprakelijkheid?**
 
-## Reconaisance Fase 1 / Information gathering
+## Reconaisance Fases
+### Fase 1 / Information gathering
 Algemene info, bedrijfsinfo:
 - E-mailadressen
 - Organogram
@@ -38,7 +39,7 @@ Algemene info, bedrijfsinfo:
   - Website
   - ...
 
-## Reconaisance Fase 2 / Netwerk scanning
+### Fase 2 / Netwerk scanning
 *Nmap, WireShark...*
 
 **Network reconnaissance**
@@ -49,19 +50,19 @@ Algemene info, bedrijfsinfo:
 - DNS zone data
 - Information harvesting
 
-## Reconaisance Fase 3 / Vulnerability assessment
+### Fase 3 / Vulnerability assessment
 Scanners
 Identificatie uit CVE Database
 Nexpose
 Retina/Iris
 
-## Fase 4
+### Fase 4
 **Exploit, Access, Penetratie...**
 - Availibility !
 - Condifentiality !
 - Legaliteit !
 
-## Fase 5
+### Fase 5
 **Maintaining access.**
 A.d.h.v. RAT (Remote Access Tool), backdoors...
 
@@ -74,5 +75,6 @@ A.d.h.v. RAT (Remote Access Tool), backdoors...
 - Condifentiality !
 - Legaliteit !
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzI0NDc2NzcsLTk3NDAxNTQ3MF19
+eyJoaXN0b3J5IjpbLTIwODI2MjEwMDIsLTE0MzI0NDc2NzcsLT
+k3NDAxNTQ3MF19
 -->
