@@ -35,7 +35,7 @@
 - Moeilijk herkenbaar
 + Meest voorkomende vorm van fraude
 + Meest uitgebuite kwetsbaarheid v/e organisatie
-- Meest voorkomende en
+*Meest voorkomende entry point*
 
 ### Geavanceerde vormen
 **Spear Phishing**
@@ -165,6 +165,6 @@ Steeds "a thin line"...
 - Diefstal
 - Aanslag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjY3MDgxODgsLTE2ODMyMjQ1NDQsLT
-E0OTY1MzI3NTQsMTIzNTcwMzU1MCwtMTAwMjcyODM5MF19
+eyJoaXN0b3J5IjpbNzYyOTgzNjAwLC0xNjgzMjI0NTQ0LC0xND
+k2NTMyNzU0LDEyMzU3MDM1NTAsLTEwMDI3MjgzOTBdfQ==
 -->
