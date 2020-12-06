@@ -149,11 +149,9 @@ Wetgeving? Ook internationaal?
 
 - **Limited disclosure**
 *Aan niemand zeggen, fabrikant zal de moeite niet willen doen.*
-
-**Full disclosure**
+- **Full disclosure**
 *Zomaar online gooien naar iedereen*
-
-**Responsible  disclosure**
+- **Responsible  disclosure**
 *Zeggen aan de fabrikant, vragen hoeveel tijd ze nodig hebben. Zeggen dat je het publiceert x weken na hun oplossing.*
 
 ### Bedreigingen "Gebeurtenissen"
@@ -162,8 +160,12 @@ Wetgeving? Ook internationaal?
 - Overstroming
 - Diefstal
 - Aanslag
+### Threat intelligence
+- "Know your enemy"
+- Noodzakelijk om risico in te schatten
+- Elementair om te beslissen over opportuniteit van **tegenmaatregelen**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxMTg1Nzk0NiwyMDE1Mjk2MDUyLDc2Mj
-k4MzYwMCwtMTY4MzIyNDU0NCwtMTQ5NjUzMjc1NCwxMjM1NzAz
-NTUwLC0xMDAyNzI4MzkwXX0=
+eyJoaXN0b3J5IjpbLTE3MzY1NTYxNTUsMjAxNTI5NjA1Miw3Nj
+I5ODM2MDAsLTE2ODMyMjQ1NDQsLTE0OTY1MzI3NTQsMTIzNTcw
+MzU1MCwtMTAwMjcyODM5MF19
 -->
