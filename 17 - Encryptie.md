@@ -117,13 +117,17 @@ SSL Certificaten
 ## PKI
 ![enter image description here](https://i.imgur.com/A5r9ZG8.png)
 
+---
 ![enter image description here](https://i.imgur.com/nsilNeY.png)
 
+---
 ![enter image description here](https://i.imgur.com/Zs35uLE.png)
 
+---
 ### Public Key Infrastructure
 ![enter image description here](https://i.imgur.com/9AOiOy1.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NzI3NjAyMiwtMzE0NzI5OTQyLDc4Nz
-QzNTYxOSwtNDA5MzQ5NTY1LDUzNzQ5MjQ1NV19
+eyJoaXN0b3J5IjpbLTE4NjY2NDg5MDEsMTc1NzI3NjAyMiwtMz
+E0NzI5OTQyLDc4NzQzNTYxOSwtNDA5MzQ5NTY1LDUzNzQ5MjQ1
+NV19
 -->
