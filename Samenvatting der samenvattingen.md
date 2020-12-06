@@ -471,11 +471,18 @@ Aan de hand van deze kan je zowel plain text naar code omzetten als omgekeerd.
 
 Er is geen geheimhouding of authenticatie, maar het is wel eenvoudig en snel.
 
-**Welk type encryptie is AES?**
+**Wat is AES?**
+Symmetrisch, snel, eenvoudig.
 
-**Welk type encryptie is RSA?**
+**Wat is RSA?**
+Asymmetrisch, intensief.
 
-**Welk type encryptie is DES?**
+**Wat is DES?**
+Symmetrisch, snel, eenvoudig.
+Kan in hardware.
+
+**Wat is Triple DES?**
+DES met 2 of 3 sleutels, wat het een factor 3 moeilijker maakt, want je moet telkens nog een sleutel kraken.
 
 **Wat is hashing?**
 De transformatie van een string in een bepaald format die de originele string representeert.
@@ -547,5 +554,5 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTcxMzgyMTMsNzA1NTkyNjQwXX0=
+eyJoaXN0b3J5IjpbLTUyMjU2OTkxMCw3MDU1OTI2NDBdfQ==
 -->
