@@ -1,7 +1,16 @@
 # 15 - GDPR
-That's it for today, folks!
+## Gegevensbescherming
+- Data protection
+- Privacy
+- Copyright
+- GDPR / AVG
 
-Tune in later for more Security!
++ Gegevens beschikbaar houden, beschermen tegen verlies
++ Gegevens confidentieel houden, beschermen tegen derden
++ Waken over de integriteit van de gegevens, beschermen tegen ongeoorloofde aanpassingen
+
+- GDPR
+- AVG
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkzODU1MDUxXX0=
+eyJoaXN0b3J5IjpbMzUzMjk3ODg4LDM5Mzg1NTA1MV19
 -->
