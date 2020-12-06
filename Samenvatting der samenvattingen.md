@@ -409,12 +409,15 @@ Hoewel het niet letterlijk in de wet staat moet je een "clean desk policy" hebbe
 De financiële impact van de incidenten weegt niet op tegen de opportuniteit van de beveiligingsinvestering.
 
 **Wat is BIA?**
+Business Impact Analysis:
 Systematisch proces om potentiële effecten van een onderbreking van kritieke bedrijfsactiviteiten als gevolg van een ramp, ongeval of noodsituatie te bepalen en te evalueren.
 
-**RPO (Recovery Point Objective)**
+**Wat is RPO?**
+Recovery Point Objective:
 Punt naarwaar je teruggaat (bv. elke zaterdag), de frequentie waaraan je back-ups neemt...
 
-**RTO (Recovery Time Objective)**
+**RTO**
+Recovery Time Objective:
 Tijd nodig om terug te zetten, terug operationeel te zijn, hoe je back-ups neemt...
 
 
@@ -495,5 +498,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDk4NjgwNjcsNzA1NTkyNjQwXX0=
+eyJoaXN0b3J5IjpbOTY1NjQ0MjY4LDcwNTU5MjY0MF19
 -->
