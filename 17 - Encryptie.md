@@ -30,21 +30,17 @@ Plain text <-> code (met zelfde kennis kan je beide)
   + *Block-cipher van 64 bit*
   + *16 encryptiecycli met telkens andere subkey*
   + *Bitlengte van de sleutel is bepalend, 56 bit is tegenwoordig te laag*
-
 [Toffe cartoon](http://www.moserware.com/2009/09/stick-figure-guide-to-advanced.html)
-
-*Te kennen voorbeelden: DES en AES*
-(Te kraken, bv. door NSA)
 
 - **Tripple DES, 2 of 3 sleutels**
 Factor 3 moeilijker (na 1 kraken, nog 1 kraken, nog 1...)
   - Verhoogde veiligheid
   - Kan in hardware
 
-**AES** / Rijndael
-IDEA
++ **AES** / Rijndael
+*IDEA
 CAST-128
-Blowfish (variabele sleutellengte)
+Blowfish (variabele sleutellengte)*
 
 ## Asymmetrische Encryptie
 **Public key encryptie**
@@ -123,6 +119,6 @@ SSL Certificaten
 ## PKI
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjc4OTczMTQ0LDc4NzQzNTYxOSwtNDA5Mz
+eyJoaXN0b3J5IjpbLTg1MjMyOTA2LDc4NzQzNTYxOSwtNDA5Mz
 Q5NTY1LDUzNzQ5MjQ1NV19
 -->
