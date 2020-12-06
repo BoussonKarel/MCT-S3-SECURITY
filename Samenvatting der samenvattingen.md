@@ -283,7 +283,7 @@ Software die de gebruiker misleidt om geïnfecteerde website te bezoeken.
 Het eerste virus die de BIOS wist.
 
 **Wat zijn homoglyphs (homogliefen)?**
-Een karakter dat er op het eerste gez
+Een karakter dat er uitziet als één uit een ander alfabet.
 
 Wat is scareware, homoglyphen...
 
@@ -442,5 +442,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwODU5MzQxMiw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbLTEwOTU3OTIzOTEsNzA1NTkyNjQwXX0=
 -->
