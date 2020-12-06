@@ -416,7 +416,7 @@ Systematisch proces om potentiële effecten van een onderbreking van kritieke be
 Recovery Point Objective:
 Punt naarwaar je teruggaat (bv. elke zaterdag), de frequentie waaraan je back-ups neemt...
 
-**RTO**
+**Wat is RTO?**
 Recovery Time Objective:
 Tijd nodig om terug te zetten, terug operationeel te zijn, hoe je back-ups neemt...
 
@@ -498,5 +498,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1NjQ0MjY4LDcwNTU5MjY0MF19
+eyJoaXN0b3J5IjpbLTExNzE4MDk0NTUsNzA1NTkyNjQwXX0=
 -->
