@@ -453,7 +453,6 @@ Het verzamelen, doorsturen, verwerken en visualiseren van meet- en regelsignalen
 Availibility.
 Wanneer je alles versleutelt is het minder beschikbaar.
 
-
 **Wat is encryptie?**
 Het coderen (versleutelen) van gegevens op basis van een bepaald algoritme.
 
@@ -527,5 +526,5 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE4MDU4NzgxLDcwNTU5MjY0MF19
+eyJoaXN0b3J5IjpbODMyMzUzOTY3LDcwNTU5MjY0MF19
 -->
