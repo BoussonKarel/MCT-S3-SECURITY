@@ -270,7 +270,7 @@ Een type malware die zich vermomt als legitieme software.
 **Wat is een worm?**
 Een virus zonder symbiant, die geen programma nodig heeft.
 
-**Wat is een macrovirus?**
+**Wat is een polymorphism?**
 
 Wat is RAT?
 Wat is scareware, homoglyphen...
@@ -430,5 +430,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTk1MjE5NzcsNzA1NTkyNjQwXX0=
+eyJoaXN0b3J5IjpbMTkxMjc0MDE0NSw3MDU1OTI2NDBdfQ==
 -->
