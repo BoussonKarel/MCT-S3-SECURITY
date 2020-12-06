@@ -1,16 +1,9 @@
 # 2 - Threats
-- Phishing
-- Smishing
-- Vishing
-- Money mules
-- Malware
-- Hardware (onbetrouwbare bron)
-- Social Engineering
-...
-
-Vallen één of meerdere *doelen* aan (toevallig of kwaadwillig).
-
-Gaan uit van agenten (personen of organisaties) of gebeurtenissen.
+- Vallen één of meerdere *doelen* aan
+- Toevallig of kwaadwillig
+- Gaan uit van
+  - agenten (personen of organisaties)
+  -  gebeurtenissen.
 
 **CIA Model**
 Confidentiality, Integrity, Availability
@@ -171,6 +164,6 @@ Steeds "a thin line"...
 - Diefstal
 - Aanslag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODMyMjQ1NDQsLTE0OTY1MzI3NTQsMT
-IzNTcwMzU1MCwtMTAwMjcyODM5MF19
+eyJoaXN0b3J5IjpbLTI0OTI2Mjc1OCwtMTY4MzIyNDU0NCwtMT
+Q5NjUzMjc1NCwxMjM1NzAzNTUwLC0xMDAyNzI4MzkwXX0=
 -->
