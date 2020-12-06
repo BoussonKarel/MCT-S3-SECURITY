@@ -2,24 +2,25 @@
 - Vallen één of meerdere *doelen* aan
 - Toevallig of kwaadwillig
 - Gaan uit van
-  - agenten (personen of organisaties)
-  -  gebeurtenissen.
+  - Agenten (personen of organisaties)
+  - Gebeurtenissen
 
-**CIA Model**
-Confidentiality, Integrity, Availability
+- **CIA Model**
+  - Confidentiality (Vertrouwelijkheid)
+  - Integrity (Integriteit)
+  - Availability (Beschikbaarheid)
 
 ## Bedreigingen
-Systeemfouten
-Gebeurtenissen
-- Brand
-- Stroomuitval
-- ...
-
-Intern
-*Ongeveer 80% van de problemen wordt intern veroorzaakt. Kans op diefstal > elitaire Russian hacker.*
-- Diefstal
-- Wraak
-- ...
+- Systeemfouten
+- Gebeurtenissen
+  - Brand
+  - Stroomuitval
+  - ...
+- Intern
+*Ongeveer 80% van de problemen wordt intern veroorzaakt.*
+  - Diefstal *Kans op diefstal > elitaire Russian hacker.**
+  - Wraak
+  - ...
 
 Extern
 - "Hackers"
@@ -164,6 +165,6 @@ Steeds "a thin line"...
 - Diefstal
 - Aanslag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0OTI2Mjc1OCwtMTY4MzIyNDU0NCwtMT
+eyJoaXN0b3J5IjpbLTc1NTQzMzY1MCwtMTY4MzIyNDU0NCwtMT
 Q5NjUzMjc1NCwxMjM1NzAzNTUwLC0xMDAyNzI4MzkwXX0=
 -->
