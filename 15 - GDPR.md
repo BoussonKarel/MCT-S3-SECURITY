@@ -27,7 +27,11 @@
 - Enkel in door de organisatie goedgekeurde locaties en media
 - Gegevensdragers niet laten rondslingeren
 - Vernietig gegevens die niet langer bijgehouden moeten worden
-- 
+- Vernietig gegevens volgens de voorschriften van de organisatie
+
+## Policy (AUP)
+**Acceptabel gebruik Policy**
+- Geeft vaak de
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMjQzOTM2MywzOTM4NTUwNTFdfQ==
+eyJoaXN0b3J5IjpbODMxMjU1OTg1LDM5Mzg1NTA1MV19
 -->
