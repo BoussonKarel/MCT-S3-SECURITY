@@ -270,7 +270,14 @@ Een type malware die zich vermomt als legitieme software.
 **Wat is een worm?**
 Een virus zonder symbiant, die geen programma nodig heeft.
 
-**Wat is een polymorphism?**
+**Wat is spyware?**
+Software die data verzamelt en doorstuurt zonder je toestemming.
+
+**Wat is adware?**
+Software die geld verdient door advertenties door je strot te duwen..
+
+**Wat is scareware?**
+Software die de gebruiker misleidt om geïnfecteerde website te bezoeken.
 
 Wat is RAT?
 Wat is scareware, homoglyphen...
@@ -430,5 +437,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjc0MDE0NSw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbLTgzODQzMzUwNSw3MDU1OTI2NDBdfQ==
 -->
