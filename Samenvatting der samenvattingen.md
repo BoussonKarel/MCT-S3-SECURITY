@@ -299,7 +299,13 @@ Kunnen aantonen dat je in staat bent na te denken over concepten: voordelen, nad
 
 # BYOD
 **Wat is BOYD?**
-"Bring Your Own Device" is een bedrijfsconcept waarbij personeel apparatuur naar het werk meeneemt die niet wordt uitgeleverd door de werkgever
+"Bring Your Own Device" is een bedrijfsconcept waarbij personeel apparatuur naar het werk meeneemt die niet wordt uitgeleverd door de werkgever.
+
+**Welke technologie kan je gebruiken om BYOD te koppelen aan de vereisten van je business omgeving?**
+Samsung Knox: partitioneert je telefoon.
+Binnenin Knox kan je apps installeren en apps hierbuiten hebben geen toegang tot de apps hierin.
+Het bedrijf heeft toegang om hierbinnen policies in te stellen.
+
 
 Vaak laptops, tablets en smartphones.
 
@@ -445,5 +451,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzc4OTE0NzY1LDcwNTU5MjY0MF19
+eyJoaXN0b3J5IjpbMTQ0OTMyMjQzMyw3MDU1OTI2NDBdfQ==
 -->
