@@ -2,8 +2,6 @@
 **Formule van Risico**  
 ![](https://i.imgur.com/WFO1L5R.png)
 
-Comment
-
 **encryptie berekenen**  
 Er worden twee priemgetallen gekozen voor deze exchange, zorg ervoor dat Prime > Generator.  
 bijvoorbeeld  
@@ -275,5 +273,6 @@ NSEC3 is nu de verbeterde versie van NSEC die ervoor zorgt dat de dns records ha
 -   ICS => Industrial Control System
 -   SCADA => Supervisory Control And Data Acquisition
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDc2NDg5MjU3LC0xOTY4OTU0ODM5XX0=
+eyJoaXN0b3J5IjpbMTYwOTM1Mzg0Miw0NzY0ODkyNTcsLTE5Nj
+g5NTQ4MzldfQ==
 -->
