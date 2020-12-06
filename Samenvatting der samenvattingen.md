@@ -1,12 +1,26 @@
 > Alles suckt en zal blijven sucken
 
 # Intro
-**Wat is het CIA model**
+**Welke doelen kunnen worden bedreigd?**
+Infrastructuur
+Gegevens
+Operationaliteit
+
+**Wat is het CIA model?**
 |  |  |
 |--|--|
 | **Confidentiality** | Vertrouwelijkheid |
 | **Integrity** | Integriteit |
 | **Availability** | Beschikbaarheid |
+
+**Geef een voorbeeld van Confidentiality**
+De punten van een andere leerling kunnen raadplegen door te hacken.
+
+**Geef een voorbeeld van Confidentiality**
+De punten kunnen aanpassen door te hacken.
+
+**Geef een voorbeeld van Confidentiality**
+IBAMAFLEX kunnen pla
 
 **Wat is de formule van risico?**
 ![](https://i.imgur.com/WFO1L5R.png)
@@ -581,6 +595,6 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3MjA4OTM0MCwxMzQ1NzQ1MTMyLDcwNT
-U5MjY0MF19
+eyJoaXN0b3J5IjpbLTEzMTIzMjg4ODcsMTM0NTc0NTEzMiw3MD
+U1OTI2NDBdfQ==
 -->
