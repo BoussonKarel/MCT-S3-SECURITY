@@ -400,12 +400,14 @@ DPO != system administrator
 Acceptable Use Policy, je moet deze policy accepteren om op het netwerk te mogen.
 
 **"GDPR stelt dat je je werkplek steeds proper moet opruimen. "**
-- (Niet impliciet) waar
-*Hoewel het niet letterlijk in de wet staat moet je een "clean desk policy" hebben, anders kan je andere zaken in de wet niet gaan afdwingen.*
+Hoewel het niet letterlijk in de wet staat moet je een "clean desk policy" hebben, anders kan je andere zaken in de wet niet gaan afdwingen.
 
 **Lees brochure van de VBO over GDPR.**
 
 # Risk - pentest
+**Waarom gaat een bank hun bankautomaten met Windows XP niet direct vervangen?**
+De financiële impact van de incidenten weegt niet op tegen de opportuniteit van de beveiligingsinvestering.
+
 **Wat is BIA?**
 Systematisch proces om potentiële effecten van een onderbreking van kritieke bedrijfsactiviteiten als gevolg van een ramp, ongeval of noodsituatie te bepalen en te evalueren.
 
@@ -493,5 +495,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTc3NTk5NzEsNzA1NTkyNjQwXX0=
+eyJoaXN0b3J5IjpbLTIxMDk4NjgwNjcsNzA1NTkyNjQwXX0=
 -->
