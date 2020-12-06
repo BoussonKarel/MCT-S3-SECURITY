@@ -62,17 +62,19 @@ Zeer berekeningsintensief
 ||Extra controle: De afzender is "legit", want de sleutel klopt.|
 
 *Voorbeeld: RSA, ECC*
-**Examen:**at is AES? Symmetrische...
-Wat is RSA? Assymetrische. Intensief...
+**Examen:**
+Wat is AES? Symmetrische...
+Wat is RSA? Assymetrische, Intensief...
 
 ## Hashing
 Bepaalde string omzetten in iets van een bepaald format.
 - Message Digest
-- *Voorbeeld: MD5, SHA2...*
 - Variabele input
 - Vaste output
 - Kleine inputvariatie > Grote outputvariatie
 - Niet reversibel
+
+ *Voorbeeld: MD5, SHA2...*
 
 ## Diffie-Hellman exchange
 Begrijpen
@@ -119,6 +121,6 @@ SSL Certificaten
 ## PKI
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTcyNzIxNiw3ODc0MzU2MTksLTQwOT
+eyJoaXN0b3J5IjpbLTMxNDcyOTk0Miw3ODc0MzU2MTksLTQwOT
 M0OTU2NSw1Mzc0OTI0NTVdfQ==
 -->
