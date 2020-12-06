@@ -17,9 +17,8 @@ Alles versleuteld = minder beschikbaar
 - One-time pad
 
 ## Symmetrische Encryptie
-Je hebt een sleutel en algoritme.
-Met ditzelfde algoritme plain text -> code
-met dezelfde kennis ook code -> plain text
+Sleutel + algoritme
+Plain text <-> code
 
 - Geheimhouding
  - GEEN authenticatie
@@ -121,6 +120,6 @@ SSL Certificaten
 ## PKI
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzg3NDM1NjE5LC00MDkzNDk1NjUsNTM3ND
-kyNDU1XX0=
+eyJoaXN0b3J5IjpbLTE5MDcwMjUyNDMsNzg3NDM1NjE5LC00MD
+kzNDk1NjUsNTM3NDkyNDU1XX0=
 -->
