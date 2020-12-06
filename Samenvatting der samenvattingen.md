@@ -507,7 +507,10 @@ SSL betekent dat het niet kan worden afgeluisterd, dit betekent niet dat de site
 **Hoe werkt Diffie-Hellman key exchange?**
 ![Diffie-Hellman key exchange explained](https://i.imgur.com/b8Y6JVp.png)
 
-**Wat is Schnei?**
+**Wat is Schneier's Law?**
+Iedereen kan een algoritme creëren waarvan hij hem zelf niet eens kan kraken. Het lastige is een algoritme creëren dat niemand anders kan kraken.
+
+Het lastige aan een algoritme creëren is dat niemand hem kan breken, zelfs na jaren van analyse. En dat kan je enkel bewijze door jarenlange analyse door de beste cryptogr
 
 **Wat is PKI?**
 Public Key Infrastructure
@@ -570,5 +573,5 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzIxMjIxNjcsNzA1NTkyNjQwXX0=
+eyJoaXN0b3J5IjpbMTI1OTk2NDEzNSw3MDU1OTI2NDBdfQ==
 -->
