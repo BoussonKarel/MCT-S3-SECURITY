@@ -421,17 +421,19 @@ Recovery Time Objective:
 Tijd nodig om terug te zetten, terug operationeel te zijn, hoe je back-ups neemt...
 
 **Op welke manieren kan je omgaan met een risico?**
-Risk Acceptance
-Risico aanvaarden (_bv. verzekeren_)
-Risk Avoidance
-Risk Mitigation
-    -   Je kan er niet rond.
-    - Minimaliseren tot doenbaar.
--   Risk Transference
-    -   Niet mijn probleem: Microsoft 365
--   Ignore it
-    -   NIET OK
+- Risk Acceptance
+  - Het aanvaarden (_bv. verzekeren_)
+- Risk Avoidance
+- Risk Mitigation
+  - Je kan er niet rond.
+  - Minimaliseren tot doenbaar.
+- Risk Transference
+  - Niet mijn probleem: *Microsoft 365*
+- ~~Ignore it~~
 
+**Hoe vinden we kwetsbaarheden?**
+
+**Op welke manieren kan je omgaan met een risico?**
 
 # IOT en ICS
 **Wat is Stuxnet?**
@@ -510,5 +512,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MDEzMDc2OSw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbLTYyNDIxNTMxLDcwNTU5MjY0MF19
 -->
