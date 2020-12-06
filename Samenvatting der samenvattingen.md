@@ -264,6 +264,13 @@ Kunnen gehackt worden (remote rubber ducky?)
 **Wat is een macrovirus?**
 Een virus geschreven in een macro language, een taal gebruikt in software zoals Word, Excel...
 
+**Wat is een Trojaans paard?**
+Een type malware die zich vermomt als legitieme software.
+
+**Wat is een worm?**
+Een virus zonder symbiant, die geen programma nodig heeft.
+
+**Wat is een macrovirus?**
 
 Wat is RAT?
 Wat is scareware, homoglyphen...
@@ -423,5 +430,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzOTg3NDIyNyw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbLTE2MTk1MjE5NzcsNzA1NTkyNjQwXX0=
 -->
