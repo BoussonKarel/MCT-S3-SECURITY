@@ -141,7 +141,6 @@ Man in the middle is een persoon die data probeerd op te halen van gebruikers di
 Een man-in-the-middle-aanval (MITM-aanval) is een aanval waarbij informatie tussen twee communicerende partijen onderschept wordt zonder dat beide partijen daar weet van hebben.
 
 **Wat is spoofing?**
-
 Spoofing = Spoofing is het vervalsen van kenmerken met als doel om tijdelijk een valse identiteit aan te nemen. Dit kan bijvoorbeeld gaan om e-mail, website, IP-adres, telefoonnummer en biometrische kenmerken.
 
 **Wat is OWASP?**
@@ -273,6 +272,6 @@ NSEC3 is nu de verbeterde versie van NSEC die ervoor zorgt dat de dns records ha
 -   ICS => Industrial Control System
 -   SCADA => Supervisory Control And Data Acquisition
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYwOTM1Mzg0Miw0NzY0ODkyNTcsLTE5Nj
-g5NTQ4MzldfQ==
+eyJoaXN0b3J5IjpbMjA4MTkwNjg4NCwxNjA5MzUzODQyLDQ3Nj
+Q4OTI1NywtMTk2ODk1NDgzOV19
 -->
