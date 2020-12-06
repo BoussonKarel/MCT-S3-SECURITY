@@ -23,7 +23,7 @@ De Industriële, Wetenschappelijke en Medische (ISM) radiobanden zijn delen van 
 
 ## Keyloggers
 - Vorm van spyware
-- Legt elke toetsaanslag op een PC/Smartphone/tablet vast.
+- Legt elke toetsaanslag op een vast.
 
 Met deze software verzamelen cybercriminelen vertrouwelijke gegevens, zoals wachtwoorden en financiële gegevens.
 ![Keylogger](https://i.imgur.com/l82Yvje.png)
@@ -44,5 +44,5 @@ Proprietary encryption (bedrijfseigen cryptografie) is een term die wordt gebrui
  - *...*
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNjg0MDA5ODFdfQ==
+eyJoaXN0b3J5IjpbMjEwNDc0MzM5NSwtMjA2ODQwMDk4MV19
 -->
