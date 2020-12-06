@@ -46,7 +46,12 @@
 
 ### Bedreigingen van binnenin
 - Grootste aandeel van veiligheidsproblemen door actie binnenin
++ Spring zorgvuldig om met geprivilegieerde informatie
+- Vaak worden documenten onbewust doorgestuurd
++ Wees alert op mogelijke beïnvloeding
+
+### Fysieke beveiliging
 - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzE4Nzk1MjgsMzkzODU1MDUxXX0=
+eyJoaXN0b3J5IjpbMTk0MzY5ODg4NSwzOTM4NTUwNTFdfQ==
 -->
