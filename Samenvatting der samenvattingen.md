@@ -261,7 +261,8 @@ Proprietary encryption (bedrijfseigen cryptografie) is een term die wordt gebrui
 Kunnen gehackt worden (remote rubber ducky?)
 
 # Virussen en malware
-
+**Wat is een macrovirus?**
+Een virus geschreven in een macro language, een taal gebruikt in software zoals Word, Excel...
 
 
 Wat is RAT?
@@ -422,5 +423,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDIwMzU5MTgsNzA1NTkyNjQwXX0=
+eyJoaXN0b3J5IjpbMTEzOTg3NDIyNyw3MDU1OTI2NDBdfQ==
 -->
