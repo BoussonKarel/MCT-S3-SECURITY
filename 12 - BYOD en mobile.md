@@ -9,8 +9,8 @@
 - Enorme hoeveelheid vertrouwelijke gegevens
 - Vaak voor 2FA
 - Vaak om wachtwoorden te herstellen
-- Niet alle apps zijn te vertrouwen
-- App kan info naar de ontwikkelaar sturen (privacysettings)
+- Niet alle apps te vertrouwen
+- Info naar de ontwikkelaar (privacysettings)
 ---
 - Vergrendel je smartphone altijd
 - Gebruik geen telefoon met gevoelige gegevens voor spelletjes
@@ -36,6 +36,6 @@ Volledige remote controle*
   - Binnen Knox kan je apps installeren. Applicaties hierbuiten hebben geen toegang tot de apps binnenin Knox.
   - Hierbinnen heeft het bedrijf de toegang om de policies in te stellen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTM1MzcyNjA3LDEwNjI0NTA1MDgsLTUwNT
-U1Mjk1OSwxNjc1NTY1MzUyLDc5MDY5MTE1MF19
+eyJoaXN0b3J5IjpbLTQ4NTc4OTY3NCwxMDYyNDUwNTA4LC01MD
+U1NTI5NTksMTY3NTU2NTM1Miw3OTA2OTExNTBdfQ==
 -->
