@@ -95,6 +95,7 @@ Je hebt de machtigingen van de persoon die is ingelogd.
 ![Vreemde netwerken](https://i.imgur.com/Sg8VzBv.png)
 
 ### Social Engineering
+Zwakste schakel, de mens, misbruiken.
 ### Bedreigingen "Agenten"
 - Entiteiten waarvan de bedreiging uitgaat
 - Zijn intern of extern aan het bedrijf
@@ -165,7 +166,7 @@ Steeds "a thin line"...
 - Diefstal
 - Aanslag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxMjQxNjM1MywyMDE1Mjk2MDUyLDc2Mj
+eyJoaXN0b3J5IjpbLTEzODUxNDg4OCwyMDE1Mjk2MDUyLDc2Mj
 k4MzYwMCwtMTY4MzIyNDU0NCwtMTQ5NjUzMjc1NCwxMjM1NzAz
 NTUwLC0xMDAyNzI4MzkwXX0=
 -->
