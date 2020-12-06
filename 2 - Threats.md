@@ -74,20 +74,20 @@ Software met als doel kwaad te berokkenen.
 **Ransomware**
 Maakt de data op je PC onbruikbaar
 - Bestanden openen niet langer
-- Poging tot het innen van losgeld
+- Losgeld
 
 Niet enkel PC's. Ook bankautomaten, medische...
 
 Enkel een BACKUP kan voldoende beschermen.
 
 ### Hardware uit onbetrouwbare bron
-USB Rubber Ducky
+**USB Rubber Ducky**
 
 Je hebt de machtigingen van de persoon die is ingelogd.
 
-> Via de meeste Windows 10 pc’s heb je alles op een binair bestand te maken en te compileren via het .NET framework, in te stellen als service...
+> Via de meeste Windows 10 pc’s heb je alles om een binair bestand te maken en te compileren via het .NET framework, in te stellen als service...
 > 
-> Dan heb je een RAT op je pc (Remote Access Tool)
+> Dan heb je een RAT (Remote Access Tool) op je pc
 
 ### Vreemde netwerken
 - Openbare netwerken kunnen worden afgeluisterd
@@ -165,6 +165,7 @@ Steeds "a thin line"...
 - Diefstal
 - Aanslag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYyOTgzNjAwLC0xNjgzMjI0NTQ0LC0xND
-k2NTMyNzU0LDEyMzU3MDM1NTAsLTEwMDI3MjgzOTBdfQ==
+eyJoaXN0b3J5IjpbMjAxNTI5NjA1Miw3NjI5ODM2MDAsLTE2OD
+MyMjQ1NDQsLTE0OTY1MzI3NTQsMTIzNTcwMzU1MCwtMTAwMjcy
+ODM5MF19
 -->
