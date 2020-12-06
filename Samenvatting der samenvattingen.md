@@ -333,12 +333,13 @@ Een opstelling waarbij je bijvoorbeeld 5 servers hebt en er 3 de workload kunnen
 Wanneer een server down is, wordt een redundante server gebruikt om de server die down is te vervangen.
 
 **Wat is DoS?**
-Het overspoelen van een server met TCP en UDP packets.
+Denial of Service: Het overspoelen van een server met TCP en UDP packets.
 
 **Wat is DDoS?**
+Distributed Denial of Service: DoS maar op meerdere computers en connecties, vaak geïnfecteerde thuis-PC's.
 
 **Wat is spoofing?**
-Spoofing is het vervalsen van kenmerken met als doel om tijdelijk een valse identiteit aan te nemen. Dit kan bijvoorbeeld gaan om e-mail, website, IP-adres, telefoonnummer en biometrische kenmerken.
+Het vervalsen van kenmerken met als doel om tijdelijk een valse identiteit aan te nemen. Dit kan bijvoorbeeld gaan om e-mail, website, IP-adres, telefoonnummer en biometrische kenmerken.
 
 Inschattingen & berekeningen uptime & availibility
 
@@ -469,5 +470,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTM2NDQ4OSw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbLTE5NDc2NzY0NzgsNzA1NTkyNjQwXX0=
 -->
