@@ -35,6 +35,9 @@
 + Balans acceptabel risico <> Bruikbaarheid
 - Noodzakelijk om systemen beheersbaar te houden
 + Strikt opvolgen!
+
+### Buiten het kantoor
+- Openbare netwerken gevaa
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3OTMwMDE2OCwzOTM4NTUwNTFdfQ==
+eyJoaXN0b3J5IjpbMTMyNTQ3NjEyNSwzOTM4NTUwNTFdfQ==
 -->
