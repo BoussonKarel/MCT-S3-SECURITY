@@ -52,11 +52,9 @@
 
 ### Fysieke beveiliging
 - Probeer diefstal te voorkomen
-  - Gepaste beveiliging
-  - "Interessante" spullen uit het zicht
-- Houd de werkplaats opgeruimd
--   Wees aandachtig waar print-outs en documenten liggen en scherm deze af voor onbevoegden
--   Meld steeds verdachte activiteiten.
++ Houd de werkplaats opgeruimd
+- Wees aandachtig waar print-outs en documenten liggen en scherm deze af voor onbevoegden
++ Meld steeds verdachte activiteiten.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTQwMjY3MCwzOTM4NTUwNTFdfQ==
+eyJoaXN0b3J5IjpbMTU3NTM4OTc2NywzOTM4NTUwNTFdfQ==
 -->
