@@ -478,8 +478,10 @@ Je hebt een private sleutel die je nooit mag lekken en een publieke sleutel die 
 
 Je kan nooit de ene sleutel in de andere omzetten.
 
-Er is geheimhouding en authenticatie.
+Je kan alles wat je versleutelt met de ene, ontsleutelen met de andere sleutel.
 
+Er is geheimhouding en authenticatie.
+Het is zeer berekeningsintensief.
 
 **Wat is AES?**
 Symmetrisch, snel, eenvoudig.
@@ -495,13 +497,17 @@ Kan in hardware.
 DES met 2 of 3 sleutels, wat het een factor 3 moeilijker maakt, want je moet telkens nog een sleutel kraken.
 
 **Wat is hashing?**
-De transformatie van een string in een bepaald format die de originele string representeert.
+Het omzetten van een string in een bepaald format die de originele string representeert.
+
+*Bijvoorbeeld MD5, SHA2...*
 
 **Wat betekent SSL?**
 SSL betekent dat het niet kan worden afgeluisterd, dit betekent niet dat de site daarom veilig is.
 
 **Hoe werkt Diffie-Hellman key exchange?**
 ![Diffie-Hellman key exchange explained](https://i.imgur.com/b8Y6JVp.png)
+
+**Wat is Schnei?**
 
 **Wat is PKI?**
 Public Key Infrastructure
@@ -564,5 +570,5 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjgyNDIwNzIsNzA1NTkyNjQwXX0=
+eyJoaXN0b3J5IjpbLTEyMzIxMjIxNjcsNzA1NTkyNjQwXX0=
 -->
