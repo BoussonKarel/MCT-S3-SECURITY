@@ -314,11 +314,6 @@ Het bedrijf heeft toegang om hierbinnen policies in te stellen.
 Niet waar.
 *(Meer voorkomend bij Android, maar vaak erger bij iOS)*
 
-
-Eigenschappen.
-
-Geen cijfers, weten dat "mobile malware" bestaat.
-
 # Availibility
 **Wat is een redundant server?**
 Wanneer een server down is, wordt een redundante server gebruikt om de server die down is te vervangen.
@@ -457,5 +452,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjE4MDMyMCw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbMTY1NDg1MzYyMiw3MDU1OTI2NDBdfQ==
 -->
