@@ -329,10 +329,13 @@ Niet waar.
 **Wat zijn clusters?**
 Een opstelling waarbij je bijvoorbeeld 5 servers hebt en er 3 de workload kunnen behandelen.
 
-**Wat is een redundant server?**
+**Wat is een redundante server?**
 Wanneer een server down is, wordt een redundante server gebruikt om de server die down is te vervangen.
 
-Wat is DoS? DDoS?
+**Wat is DoS?**
+Het overspoelen van een server met TCP en UDP packets.
+
+**Wat is DDoS?**
 
 **Wat is spoofing?**
 Spoofing is het vervalsen van kenmerken met als doel om tijdelijk een valse identiteit aan te nemen. Dit kan bijvoorbeeld gaan om e-mail, website, IP-adres, telefoonnummer en biometrische kenmerken.
@@ -466,5 +469,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNTk5MDIwNSw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbLTE4OTM2NDQ4OSw3MDU1OTI2NDBdfQ==
 -->
