@@ -180,7 +180,7 @@ Het misbruiken van een bug, ontwerpfout... in een besturingssysteem of softwaret
 - **Vertical:** Meer machtigingen verwerven
 
 # Back-ups
-**Back-up media's**
+**Welke vormen van back-up media bestaan er?**
 - Tape
 - Harddisk
 - USB-stick
@@ -597,6 +597,6 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU4MDI0MjI4LDEzNDU3NDUxMzIsNzA1NT
-kyNjQwXX0=
+eyJoaXN0b3J5IjpbLTE0MTA2ODUwNjIsMTM0NTc0NTEzMiw3MD
+U1OTI2NDBdfQ==
 -->
