@@ -449,6 +449,11 @@ Supervisory Control And Data Acquisition:
 Het verzamelen, doorsturen, verwerken en visualiseren van meet- en regelsignalen van verschillende machines in grote industriële systemen.
 
 # Encryptie
+**Welk aspect van het CIA model wordt negatief beïnvloed door encryptie?**
+Availibility.
+Wanneer je alles versleutelt is het minder beschikbaar.
+
+
 **Wat is encryptie?**
 Het coderen (versleutelen) van gegevens op basis van een bepaald algoritme.
 
@@ -520,7 +525,7 @@ Antwoorden op complexe vragen soms heel evident
 | RPO | Recovery Point Objective |
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
-| SCADA
+| SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTE0NDc0NTgsNzA1NTkyNjQwXX0=
+eyJoaXN0b3J5IjpbOTE4MDU4NzgxLDcwNTU5MjY0MF19
 -->
