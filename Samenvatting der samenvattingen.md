@@ -376,6 +376,9 @@ Het Open Web Application Security Project is een open source-project rond comput
 
 Injection, authenticatiefouten, cross site scripting...
 
+**Wat is defacement?**
+Een aanval van een website die de visuele uitstraling aanpast.
+
 # GDPR & Privacy
 **Wat is GDPR**
 De GDPR of General Data Protection Regulation (Algemene Verordening Gegevensbescherming) is een Europese verordening die de regels voor de verwerking van persoonsgegevens door particuliere bedrijven en overheidsinstanties in de hele Europese Unie standaardiseert.
@@ -490,5 +493,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzkwNzgxMTMsNzA1NTkyNjQwXX0=
+eyJoaXN0b3J5IjpbMTkzNDc5MDkwMyw3MDU1OTI2NDBdfQ==
 -->
