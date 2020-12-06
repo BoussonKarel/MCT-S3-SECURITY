@@ -1,7 +1,7 @@
 # 8 - Social Engineering
 ## Wat
 
-Social Engineering is een techniek waarbij een computerkraker een aanval op computersystemen tracht te ondernemen door de zwakste schakel in de computerbeveiliging, de mens, te kraken.
+Een techniek waarbij een computerkraker een aanval op computersystemen tracht te ondernemen door de zwakste schakel in de computerbeveiliging, de mens, te kraken.
 
 - "The art of deception" (bedrog)
 - De menselijke schakel in Security
@@ -38,5 +38,5 @@ Vrij simpel implementeerbaar
 ![WiFi Pineapple](https://i.imgur.com/Ymf15MI.png)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTUyNTIwMTNdfQ==
+eyJoaXN0b3J5IjpbNzI4ODc4MzEzLC0xODk1MjUyMDEzXX0=
 -->
