@@ -449,12 +449,12 @@ Supervisory Control And Data Acquisition:
 Het verzamelen, doorsturen, verwerken en visualiseren van meet- en regelsignalen van verschillende machines in grote industriële systemen.
 
 # Encryptie
+**Wat is encryptie?**
+Het coderen (versleutelen) van gegevens op basis van een bepaald algoritme.
+
 **Welk aspect van het CIA model wordt negatief beïnvloed door encryptie?**
 Availibility.
 Wanneer je alles versleutelt is het minder beschikbaar.
-
-**Wat is encryptie?**
-Het coderen (versleutelen) van gegevens op basis van een bepaald algoritme.
 
 **Wat is hashing?**
 De transformatie van een string in een bepaald format die de originele string representeert.
@@ -526,5 +526,5 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMyMzUzOTY3LDcwNTU5MjY0MF19
+eyJoaXN0b3J5IjpbLTc3MDQwMjgzMyw3MDU1OTI2NDBdfQ==
 -->
