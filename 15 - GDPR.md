@@ -41,7 +41,12 @@
   - *Houd je aan de voorschriften, policy (VPN)...*
 + Deel nooit interne informatie met derden
 - Wees waakzaam over wie kan meeluisteren
-+ Diefstal! Uitlezen zelfs indien beveiligd...
++ Diefstal! (Uitlezen van toestel indien beveiligd)
+- Externe apparatuur! (USB, netwerkkabels, projector...)
+
+### Bedreigingen van binnenin
+- Grootste aandeel van veiligheidsproblemen door actie binnenin
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2MjczMTQ5NywzOTM4NTUwNTFdfQ==
+eyJoaXN0b3J5IjpbLTE1MzE4Nzk1MjgsMzkzODU1MDUxXX0=
 -->
