@@ -197,20 +197,16 @@ Een back-up rotatiesysteem waarbij er drie of meer cycli zijn, zoals dagelijks, 
 **Wat is een pentest?**
 Een penetratietest is een toets van één of meerdere computersystemen op kwetsbaarheden, waarbij deze ook werkelijk gebruikt worden om in deze systemen in te breken.
 
-**Black-box testing**
-Je weet niets over de infrastructuur van het bedrijf etc...
+**Wat is Black-box / White-box / Crystal box testing?**
+- Black-box testing
+*Je weet niets over de infrastructuur van het bedrijf etc...*
 
-**White-box testing**
-Je krijgt uitleg, eventueel een admin account. Je kan zien welke software en infrastructuur ze gebruiken.
+- White-box testing
+*Je krijgt uitleg, eventueel een admin account. Je kan zien welke software en infrastructuur ze gebruiken.*
 
-**Crystal box testing**
-*Eerst kort een black box test (maximum tijd die je eraan besteedt) zonder al te veel resources erin te steken of gigantisch je best te doen.*
-
-*Afhankelijk van de resultaten verder testen:*
-- *Wat kan een gewone user account (privilege* escalation)
-- *Met admin account wat tools testen*
-
-*Heeft ook de voordelen van white box: je vindt zaken die je niet vond met black box.*
+- Crystal box testing
+*Korte black-b
+*Eerst kort een black box test (maximum tijd die je eraan besteedt) zonder al te veel resources erin te steken of gigantisch je best te doen. Afhankelijk van de resultaten verder testen: Wat kan een gewone user, met admin account wat testen...*
 
 **Wat zijn de verschillende (Reconaisance) fases?**
 1. Information gathering
@@ -420,5 +416,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwMzA1Njc0MCw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbMTk0NTU1MzMyMSw3MDU1OTI2NDBdfQ==
 -->
