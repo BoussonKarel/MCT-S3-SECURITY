@@ -16,11 +16,11 @@ Operationaliteit
 **Geef een voorbeeld van Confidentiality**
 De punten van een andere leerling kunnen raadplegen door te hacken.
 
-**Geef een voorbeeld van Confidentiality**
+**Geef een voorbeeld van Integrity**
 De punten kunnen aanpassen door te hacken.
 
-**Geef een voorbeeld van Confidentiality**
-IBAMAFLEX kunnen pla
+**Geef een voorbeeld van Availibility**
+IBAMAFLEX kunnen platleggen
 
 **Wat is de formule van risico?**
 ![](https://i.imgur.com/WFO1L5R.png)
@@ -36,6 +36,9 @@ IBAMAFLEX kunnen pla
 # Threats
 **Wat zijn bedreigingen?**
 Gevaarlijke gebeurtenisen die wellicht ooit voorkomen.
+
+**Wat is de kans op een defect?**
+Het is een zekerheid, dus 100%
 
 **Wat is phishing?**
 Oplichting over e-mail, vaak met een onwaarschijnlijk verhaal. Vaak herkenbaar aan de malafide links, maar soms moeilijk herkenbaar.
@@ -105,7 +108,6 @@ Een MITM-aanval is een aanval waarbij informatie tussen twee communicerende part
 Noodzakelijk om risico in te schatten en om te beslissen over de opportuniteit van de implementatie van *tegenmaatregelen*.
 
 # Beveiligingen
-
 **Kwetsbaarheden**
 - Software vulnerabilities
   - Geen updates
@@ -595,6 +597,6 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTIzMjg4ODcsMTM0NTc0NTEzMiw3MD
+eyJoaXN0b3J5IjpbLTE0OTAxNTU1ODQsMTM0NTc0NTEzMiw3MD
 U1OTI2NDBdfQ==
 -->
