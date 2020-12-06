@@ -126,7 +126,7 @@ Totale / optimale security is enkel mogelijk bij onbestaande usability en omgeke
 Je zorgt voor zoveel mogelijk lagen van beveiligen en vertrouwt nooit op 1 enkele maatregel, je hebt een strategie bij een incident en je plant en documenteert.
 
 **Wat is Maltego?**
-Software gebruikt voor open-source intelligence in fase 1: information gathering.
+Software gebruikt voor open-source intelligence.
 
 **Lees de ICC Belgian Cyber Security Guide!**
 (vragen rechtstreeks hieruit)
@@ -597,6 +597,6 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0OTAxNTU1ODQsMTM0NTc0NTEzMiw3MD
-U1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbOTMwNDE3MDgwLDEzNDU3NDUxMzIsNzA1NT
+kyNjQwXX0=
 -->
