@@ -37,7 +37,9 @@
 + Strikt opvolgen!
 
 ### Buiten het kantoor
-- Openbare netwerken gevaa
+- Openbare netwerken ⚠
+  - *Houd je aan de voorschriften, policy (VPN)...*
++ Deel noo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTQ3NjEyNSwzOTM4NTUwNTFdfQ==
+eyJoaXN0b3J5IjpbLTU2NzY0OTY5MCwzOTM4NTUwNTFdfQ==
 -->
