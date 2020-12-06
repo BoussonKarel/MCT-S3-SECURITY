@@ -13,7 +13,9 @@ Alles versleuteld = minder beschikbaar
 
 ### Traditionele cryptografie
 - Substitutie
+  - *Karakters veranderen door andere*
 - Transpositie
+  - *x plaatsen opschuiven in het alfabet*
 - One-time pad
 
 ## Symmetrische Encryptie
@@ -120,6 +122,6 @@ SSL Certificaten
 ## PKI
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDcwMjUyNDMsNzg3NDM1NjE5LC00MD
-kzNDk1NjUsNTM3NDkyNDU1XX0=
+eyJoaXN0b3J5IjpbMjA1MjU5Mjc3OSw3ODc0MzU2MTksLTQwOT
+M0OTU2NSw1Mzc0OTI0NTVdfQ==
 -->
