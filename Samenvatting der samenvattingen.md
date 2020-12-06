@@ -432,8 +432,16 @@ Tijd nodig om terug te zetten, terug operationeel te zijn, hoe je back-ups neemt
 - ~~Ignore it~~
 
 **Hoe vinden we kwetsbaarheden?**
+Security Audit:
+Wie? Wat? Hoe?
 
-**Op welke manieren kan je omgaan met een risico?**
+Self assessment / externe audit / pentest / red teaming.
+
+**Wat is self assessment?**
+Het herbekijken vna pro
+
+**Hoe meten we de bedreiging?**
+Threat Intelligence
 
 # IOT en ICS
 **Wat is Stuxnet?**
@@ -512,5 +520,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNDIxNTMxLDcwNTU5MjY0MF19
+eyJoaXN0b3J5IjpbMzcwNDU4NTE0LDcwNTU5MjY0MF19
 -->
