@@ -54,9 +54,6 @@ Een rubber ducky is een vorm van hardware die toetsaanslagen uitvoert alsof het 
 
 *Zo kan het RATs installeren op je pc door een binair bestand te maken en deze te compileren, in te stellen als service...*
 
-**Wat is social engeneering?**
-Een techniek waarbij een computerkraker een aanval op computersystemen tracht te ondernemen door de zwakste schakel in de computerbeveiliging, de mens, te kraken.
-
 **Wat is een white hat / black hat / gray hat hacker?**
 - Black hat
 *Hacking activiteit voor persoonlijk gewin (ingehuurd)*
@@ -233,13 +230,15 @@ Extra data die informatie geeft over andere data.
 *Bij een smartphone foto is dat bijvoorbeeld de locatie, exacte datum/tijd, camera...*
 
 **Wat is Oversharing?**
-Wanneer je alles op sociale media plaatst, vertel je eigenlijk alles aan wildvre
+Wanneer je alles op sociale media plaatst, vertel je eigenlijk alles aan wildvreemden.
 
-Waarmee moet je opletten
-**Wat is social engeneering?**
+**Wat is social engineering?**
+Een techniek waarbij een computerkraker een aanval op computersystemen tracht te ondernemen door de zwakste schakel in de computerbeveiliging, nl. de mens, te kraken.
 
-Social engineering of social hacking, is een techniek waarbij een computerkraker een aanval op computersystemen tracht te ondernemen door de zwakste schakel in de computerbeveiliging, namelijk de mens, te kraken.
 # Social Engineering
+**Wat is pretexting?**
+Een vorm van so
+
 Weinig "echte" vragen over theoretische kennis.
 
 Meer denkkader: rekening houden ermee bij beantwoording van ALLE vragen.
@@ -420,5 +419,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzM5ODUwNzEsNzA1NTkyNjQwXX0=
+eyJoaXN0b3J5IjpbLTEzMzU3OTAyNzMsNzA1NTkyNjQwXX0=
 -->
