@@ -18,6 +18,16 @@
 ---
 
 - Let op met afdrukken: dumpster diving
+
++ Clean desk policy
+
+---
+
+- Sla gegevens centraal op
+- Enkel in door de organisatie goedgekeurde locaties en media
+- Gegevensdragers niet laten rondslingeren
+- Vernietig gegevens die niet langer bijgehouden moeten worden
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NjM4NzY5OSwzOTM4NTUwNTFdfQ==
+eyJoaXN0b3J5IjpbMTgwMjQzOTM2MywzOTM4NTUwNTFdfQ==
 -->
