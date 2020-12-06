@@ -471,6 +471,16 @@ Aan de hand van deze kan je zowel plain text naar code omzetten als omgekeerd.
 
 Er is geen geheimhouding of authenticatie, maar het is wel eenvoudig en snel.
 
+**Wat is asymmetrische encryptie?**
+Public key encryptie. Werkt met sleutelparen.
+
+Je hebt een private sleutel die je nooit mag lekken en een publieke sleutel die iedereen mag kennen.
+
+Je kan nooit de ene sleutel in de andere omzetten.
+
+Er is geheimhouding en authenticatie.
+
+
 **Wat is AES?**
 Symmetrisch, snel, eenvoudig.
 
@@ -554,5 +564,5 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyMjU2OTkxMCw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbLTE1MjgyNDIwNzIsNzA1NTkyNjQwXX0=
 -->
