@@ -137,7 +137,7 @@ Met de juiste doelen soms over de lijn. Illegale dingen doen om soms nobele ding
 
 ### De 'ethical' hacker
 Goed of slecht voor security?
-*Security by obscurity:* System security should not depend on the secrecy of the implementation or its components.
+**Security by obscurity:** *System security should not depend on the secrecy of the implementation or its components.*
 
 **Penetration testing**
 Verificatie van beveiliging, maar ook... ongevraagd?
@@ -147,10 +147,7 @@ Meldingsplicht?
 Limited disclosure? Full disclosure?
 Wetgeving? Ook internationaal?
 
-Soms grijze zone
-Steeds "a thin line"...
-
-**Limited disclosure**
+- **Limited disclosure**
 *Aan niemand zeggen, fabrikant zal de moeite niet willen doen.*
 
 **Full disclosure**
@@ -166,7 +163,7 @@ Steeds "a thin line"...
 - Diefstal
 - Aanslag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzOTcyNzQ0LDIwMTUyOTYwNTIsNzYyOT
-gzNjAwLC0xNjgzMjI0NTQ0LC0xNDk2NTMyNzU0LDEyMzU3MDM1
-NTAsLTEwMDI3MjgzOTBdfQ==
+eyJoaXN0b3J5IjpbMTIxMTg1Nzk0NiwyMDE1Mjk2MDUyLDc2Mj
+k4MzYwMCwtMTY4MzIyNDU0NCwtMTQ5NjUzMjc1NCwxMjM1NzAz
+NTUwLC0xMDAyNzI4MzkwXX0=
 -->
