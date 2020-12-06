@@ -537,7 +537,7 @@ Het Diffie-Hellman protocol wordt gebruikt om:
 **Wat is een exploit?**
 Making use of (a situation) in a way considered unfair.
 
-**Wat is reverse engineering?**
+**Wat is Reverse engineering?**
 Het onderzoeken van een product om daaruit af te leiden wat de eisen zijn waaraan het product probeert te voldoen, of om de precieze interne werking ervan te achterhalen.
 
 **Wat is Shellcode?**
@@ -579,5 +579,5 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNTg0NDYyLDcwNTU5MjY0MF19
+eyJoaXN0b3J5IjpbMzQyMzczMjAyLDcwNTU5MjY0MF19
 -->
