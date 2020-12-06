@@ -24,14 +24,17 @@
 ---
 
 - Sla gegevens centraal op
-- Enkel in door de organisatie goedgekeurde locaties en media
++ Enkel in door de organisatie goedgekeurde locaties en media
 - Gegevensdragers niet laten rondslingeren
-- Vernietig gegevens die niet langer bijgehouden moeten worden
++ Vernietig gegevens die niet langer bijgehouden moeten worden
 - Vernietig gegevens volgens de voorschriften van de organisatie
 
 ## Policy (AUP)
 **Acceptabel gebruik Policy**
-- Geeft vaak de
+- Geeft vaak indruk gebruiker te willen beperken
++ Balans acceptabel risico <> Bruikbaarheid
+- Noodzakelijk om systemen beheersbaar te houden
++ Strikt opvolgen!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODMxMjU1OTg1LDM5Mzg1NTA1MV19
+eyJoaXN0b3J5IjpbLTM3OTMwMDE2OCwzOTM4NTUwNTFdfQ==
 -->
