@@ -362,16 +362,17 @@ Het vervalsen van kenmerken met als doel om tijdelijk een valse identiteit aan t
 
 Inschattingen & berekeningen uptime & availibility
 
-Waarden van de nines ongeveer kennen
-- 3 nines = 99,9 = dikke 8 uur
-- 5 nines = 99,999 = paar minuten op een jaar
+**Hoeveel uptime is 3 nines / 5 nines?**
+**Wat is het verschil tussen 3 nines en 5 nines?**
+3 nines = 99,9% = dikke 8 uur
+5 nines = 99,999% = paar minuten op een jaar
 
 # Web Sec
 **Wat is OWASP?**
 Het Open Web Application Security Project is een open source-project rond computerbeveiliging. Individuen, scholen en bedrijven delen via dit platform informatie en technieken.
 
-Lees OWASP document!
-Alle nodige informatie voor Web Security (naast domme problemen).
+**Lees OWASP document!**
+*Het bevat alle nodige informatie voor Web Security (naast domme problemen ofcourse).*
 
 Injection, authenticatiefouten, cross site scripting...
 
@@ -489,5 +490,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTcyODkwMDgsNzA1NTkyNjQwXX0=
+eyJoaXN0b3J5IjpbLTE5MzkwNzgxMTMsNzA1NTkyNjQwXX0=
 -->
