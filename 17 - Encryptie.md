@@ -7,14 +7,11 @@ Alles versleuteld = minder beschikbaar
 - Authenticatie
 - Integriteit
 
-- Nonrepudabiliteit
-4e luik: nonrepudation
-nonrepudabiliteit?
-
-Hoe kan je bewijzen dat een bepaalde domeinnaam NIET van jou is
++ Nonrepudabiliteit (onweerlegbaarheid-
+  + *Hoe kan je bewijzen dat een bepaalde domeinnaam NIET van jou is*
 
 
-## Traditionele cryptografie
+### Traditionele cryptografie
 - Substitutie
 - Transpositie
 - One-time pad
@@ -124,6 +121,6 @@ SSL Certificaten
 ## PKI
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY2NDA5NTk5LC00MDkzNDk1NjUsNTM3ND
+eyJoaXN0b3J5IjpbNzg3NDM1NjE5LC00MDkzNDk1NjUsNTM3ND
 kyNDU1XX0=
 -->
