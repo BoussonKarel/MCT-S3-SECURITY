@@ -12,7 +12,13 @@
 - **Injection**
 - **Broken authentication**
 - **Sensitive Data Exposure**
-- **External En
+- **XML External Entities (XXE)**
+- **Broken Access Control**
+- **Security Misconfiguration**
+- **Cross-Site Scripting (XSS)**
+- **Insecure Deserialization**
+- **Using Components with Known Vulnerabilities**
+- **Insufficient Logging & Monitoring**
 
 ## Scanning
 - Nessus, Nikto, OpenVAS...
@@ -36,6 +42,6 @@
 - Prepared statements
 - Authenticatie frameworks
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTgwNTM4OTQsLTIxMzAyMjY0MTYsLT
+eyJoaXN0b3J5IjpbLTEwNzE2MzgzMzIsLTIxMzAyMjY0MTYsLT
 E0OTU3MTQ5NjddfQ==
 -->
