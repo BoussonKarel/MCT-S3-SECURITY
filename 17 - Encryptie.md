@@ -1,6 +1,5 @@
 # 17 - Encryptie
-Helpt niet echt met beschikbaarheid
-
+Helpt niet echt met **beschikbaarheid**
 Alles versleuteld = minder beschikbaar
 
 ## Encryptie
@@ -125,6 +124,6 @@ SSL Certificaten
 ## PKI
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTgzMzc2MTksLTQwOTM0OTU2NSw1Mz
-c0OTI0NTVdfQ==
+eyJoaXN0b3J5IjpbNjY2NDA5NTk5LC00MDkzNDk1NjUsNTM3ND
+kyNDU1XX0=
 -->
