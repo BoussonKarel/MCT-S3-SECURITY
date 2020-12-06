@@ -399,14 +399,11 @@ DPO != system administrator
 **Wat is AUP?**
 Acceptable Use Policy, je moet deze policy accepteren om op het netwerk te mogen.
 
-Paar vragen.
-
-Kennen, weten wat de GDPR gaat zeggen.
-
-"GDPR stelt dat je je werkplek steeds proper moet opruimen. Waar of niet waar?"
-- Waar
+**"GDPR stelt dat je je werkplek steeds proper moet opruimen. "**
+- (Niet impliciet) waar
 *Hoewel het niet letterlijk in de wet staat moet je een "clean desk policy" hebben, anders kan je andere zaken in de wet niet gaan afdwingen.*
-- ~~Niet waar~~
+
+**Lees brochure van de VBO over GDPR.**
 
 # Risk - pentest
 **Wat is BIA?**
@@ -496,5 +493,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDc0MDIyODksNzA1NTkyNjQwXX0=
+eyJoaXN0b3J5IjpbLTE1MTc3NTk5NzEsNzA1NTkyNjQwXX0=
 -->
