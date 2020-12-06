@@ -252,15 +252,13 @@ Een vorm van social engineering waarbij een individu een smoesje verzint om gevo
 De industriële, wetenschappelijke en medische (ISM) radiobanden zijn radiobanden (delen van het radiospectrum) die internationaal zijn gereserveerd voor het gebruik van radiofrequentie (RF) energie voor industriële, wetenschappelijke en andere medische doeleinden dan telecommunicatie.
 
 **Wat is de een keylogger?**
-Een vorm van spuware die elke toetsaanslag vastlegt
+Een vorm van spyware die elke toetsaanslag vastlegt en zo vertrouwelijke gegevens zoals wachtwoorden en financiële gegevens verzamelt voor cybercriminelen.
 
 **Wat is Proprietary encryption?**
 Proprietary encryption (bedrijfseigen cryptografie) is een term die wordt gebruikt om aangepaste coderingstechnieken te beschrijven die door de ontwerpers geheim worden gehouden om extra beveiliging toe te voegen.
 
----
-Technologie kennen, weten wat er allemaal bestaat.
-
-Tonen dat je nadenkt bij implementatie draadloze technologie (zoals draadloze muis)
+**Opletten bij implementatie draadloze technologie (zoals draadloze muizen en toetsenborden)!**
+Kunnen gehackt worden (remote rubber ducky?)
 
 # Virussen en malware
 
@@ -424,5 +422,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5ODUxMjE3NSw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbLTExNDIwMzU5MTgsNzA1NTkyNjQwXX0=
 -->
