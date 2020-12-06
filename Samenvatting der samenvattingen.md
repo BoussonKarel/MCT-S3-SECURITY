@@ -293,12 +293,15 @@ Kunnen aantonen dat je in staat bent na te denken over concepten: voordelen, nad
 
 **Wat zijn de voor- en nadelen van een online boekhoudpakket?**
 - Nadelen
-- Vendor lock-in? Vertrouwelijkheid? Prijs? Continuïteit?
-- Voordelen / USP**  Toegang van overal Samenwerken met derden Automatische back-up ...
+*Vendor lock-in? Vertrouwelijkheid? Prijs? Continuïteit?*
++ Voordelen / USP
+*Toegang van overal, samenwerken met derden, automatische back-up...*
 
 # BYOD
 **Wat is BOYD?**
-BYOD (of kortweg BYO) is een bedrijfsconcept waarbij personeel apparatuur naar werk meebrengt die niet wordt uitgeleverd door de werkgever. Vaak wordt bij deze trend gerefereerd naar het meebrengen van mobiele apparatuur, zoals laptops, tablets en smartphones.
+"Bring Your Own Device" is een bedrijfsconcept waarbij personeel apparatuur naar het werk meeneemt die niet wordt uitgeleverd door de werkgever
+
+Vaak laptops, tablets en smartphones.
 
 Eigenschappen.
 
@@ -442,5 +445,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1NTg4Nzc5Nyw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbNzc4OTE0NzY1LDcwNTU5MjY0MF19
 -->
