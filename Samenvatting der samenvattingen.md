@@ -237,13 +237,10 @@ Een techniek waarbij een computerkraker een aanval op computersystemen tracht te
 
 # Social Engineering
 **Wat is pretexting?**
-Een vorm van so
+Een vorm van social engineering waarbij een individu een smoesje verzint om gevoelige data te verzamelen.
+*Bijvoorbeeld voordoen als iemand in uniform.*
 
-Weinig "echte" vragen over theoretische kennis.
-
-Meer denkkader: rekening houden ermee bij beantwoording van ALLE vragen.
-
-Verder niet zo belangrijk
+**Rekening houden ermee bij beantwoording van ALLE vragen.**
 
 # Wireless
 **Wat is de ISM band?**
@@ -419,5 +416,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzU3OTAyNzMsNzA1NTkyNjQwXX0=
+eyJoaXN0b3J5IjpbLTIwMzIxMTY1ODQsNzA1NTkyNjQwXX0=
 -->
