@@ -77,7 +77,7 @@ Bepaalde string omzetten in iets van een bepaald format.
  *Voorbeeld: MD5, SHA2...*
 
 ## Diffie-Hellman exchange
-Begrijpen
+![Diffie-Hellman key exchange explained](https://i.imgur.com/b8Y6JVp.png)
 
 ## Schneier's Law
 *“Anyone, from the most clueless amateur to the best cryptographer, can create an algorithm that he himself can't break. It's not even hard. What is hard is creating an algorithm that no one else can break, even after years of analysis. And the only way to prove that is to subject the algorithm to years of analysis by the best cryptographers around.”*
@@ -86,18 +86,18 @@ Begrijpen
 *Een programmeur is geen wiskundige expert.*
 *Een wiskundige is geen programmeur.*
 
-
-
 ## Veilige websites
- - http**s**://
-   - “veilige” verbindingen (SSL)
+|  |  |
+|--|--|
+| HTTP**S**:// | "Veilige verbindingen" (SSL) |
+| HTTP:// | On
+
+ - http**s**:// > "
+ -veilige” verbindingen (SSL)
  - http://
    - “onveilige” verbindingen
-
-**-**
-
- - Kwaadwillige sites kunnen HTTPS gebruiken!
- - SSL betekent enkel dat gegevens niet kunnen worden afgeluisterd!
+ + Kwaadwillige sites kunnen HTTPS gebruiken!
+ + SSL betekent enkel dat gegevens niet kunnen worden afgeluisterd!
 
 ## Praktisch gebruik
 SSL Certificaten
@@ -121,6 +121,6 @@ SSL Certificaten
 ## PKI
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxNDcyOTk0Miw3ODc0MzU2MTksLTQwOT
-M0OTU2NSw1Mzc0OTI0NTVdfQ==
+eyJoaXN0b3J5IjpbMzgwNTIyNDA3LC0zMTQ3Mjk5NDIsNzg3ND
+M1NjE5LC00MDkzNDk1NjUsNTM3NDkyNDU1XX0=
 -->
