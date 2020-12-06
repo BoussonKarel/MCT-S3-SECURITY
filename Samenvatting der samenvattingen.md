@@ -1,3 +1,5 @@
+> Alles suckt en zal blijven sucken
+
 # Intro
 **Wat is het CIA model**
 |  |  |
@@ -579,5 +581,6 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0NTc0NTEzMiw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbMjA3MjA4OTM0MCwxMzQ1NzQ1MTMyLDcwNT
+U5MjY0MF19
 -->
