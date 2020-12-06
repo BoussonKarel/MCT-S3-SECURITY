@@ -311,7 +311,8 @@ Vaak laptops, tablets en smartphones.
 **Wat zijn tips voor BYOD?**
 - Vergrendel je smartphone
 - Geen spelletjes op een GSM met gevoelige data.
-- 
+- Pas op voor misleidende meldingen en advertenties.
+- Laat je smartphone niet door derden gebruiken.
 
 **Welke technologie kan je gebruiken voor BYOD?**
 Samsung Knox: partitioneert je telefoon.
@@ -462,5 +463,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNjA0NDgzNCw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbMTUwNjY5MjczMyw3MDU1OTI2NDBdfQ==
 -->
