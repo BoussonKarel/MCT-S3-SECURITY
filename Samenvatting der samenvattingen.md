@@ -326,6 +326,9 @@ Niet waar.
 *(Meer voorkomend bij Android, maar vaak erger bij iOS)*
 
 # Availibility
+**Wat zijn clusters?**
+Een opstelling waarbij je bijvoorbeeld 5 servers hebt en er 3 de workload kunnen behandelen.
+
 **Wat is een redundant server?**
 Wanneer een server down is, wordt een redundante server gebruikt om de server die down is te vervangen.
 
@@ -463,5 +466,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwNjY5MjczMyw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbLTcyNTk5MDIwNSw3MDU1OTI2NDBdfQ==
 -->
