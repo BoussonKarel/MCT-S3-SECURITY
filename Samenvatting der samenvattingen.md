@@ -303,6 +303,16 @@ Kunnen aantonen dat je in staat bent na te denken over concepten: voordelen, nad
 
 Vaak laptops, tablets en smartphones.
 
+**Wat is gevaarlijk BYOD?**
+- Malware kan worden binnengebracht.
+- Compatibiliteitsproblemen
+- Ze bevatten een enorme hoeveelheid aan vertrouwelijke data
+
+**Wat zijn tips voor BYOD?**
+- Vergrendel je smartphone
+- Geen spelletjes op een GSM met gevoelige data.
+- 
+
 **Welke technologie kan je gebruiken voor BYOD?**
 Samsung Knox: partitioneert je telefoon.
 
@@ -452,5 +462,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDg1MzYyMiw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbMjAyNjA0NDgzNCw3MDU1OTI2NDBdfQ==
 -->
