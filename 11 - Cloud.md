@@ -4,7 +4,7 @@
 - Afhankelijk van aanbieder "hosted service"
 - CIA analyse blijft relevant "in the cloud"
   - Confidentiality?
-    - PRISM (afluisterprogramma NSA)
+    - *PRISM (afluisterprogramma NSA)*
   - Availibility?
     - Internet Carriers / overheden (Web Neutrality)
   - Integrity?
@@ -43,6 +43,7 @@ Samenwerken met derden
 Automatische back-up
 ...
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzYzMDQxMjgxLC0zMTk3NTQxMCwtMTc2MT
-I5OTMyLC0zMjA3MzEwNDUsNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbMTA3MDM0MjEzNSw3NjMwNDEyODEsLTMxOT
+c1NDEwLC0xNzYxMjk5MzIsLTMyMDczMTA0NSw3MzA5OTgxMTZd
+fQ==
 -->
