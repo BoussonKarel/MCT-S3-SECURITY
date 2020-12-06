@@ -105,7 +105,7 @@ Zwakste schakel, de mens, misbruiken.
   - Motivatie
 
 **"De ontslagen werknemer"**
-- Heeft toegang (nog steeds?) tot de organisatie
+- Heeft (nog steeds?) toegang tot de organisatie
 - Heeft kennis over de werking van de organisatie
 - Heeft een sterke negatieve motivatie
 
@@ -166,7 +166,7 @@ Steeds "a thin line"...
 - Diefstal
 - Aanslag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzODUxNDg4OCwyMDE1Mjk2MDUyLDc2Mj
-k4MzYwMCwtMTY4MzIyNDU0NCwtMTQ5NjUzMjc1NCwxMjM1NzAz
-NTUwLC0xMDAyNzI4MzkwXX0=
+eyJoaXN0b3J5IjpbLTUzOTcyNzQ0LDIwMTUyOTYwNTIsNzYyOT
+gzNjAwLC0xNjgzMjI0NTQ0LC0xNDk2NTMyNzU0LDEyMzU3MDM1
+NTAsLTEwMDI3MjgzOTBdfQ==
 -->
