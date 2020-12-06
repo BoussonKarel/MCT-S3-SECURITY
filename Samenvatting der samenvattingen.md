@@ -459,6 +459,12 @@ Wanneer je alles versleutelt is het minder beschikbaar.
 **Wat is nonrepudabiliteit?**
 Onweerlegbaarheid. Hoe kan je bewijzen dat iets (zoals een domeinnaam) NIET van jou is. (Dat je het niet onder een fake naam gekocht hebt).
 
+**Wat is substitutie?**
+Het vervangen van karakters door andere karakters.
+
+**Wat is transpositie?**
+Het opschuiven van een karakter in het alfabet met x plaatsen.
+
 **Wat is hashing?**
 De transformatie van een string in een bepaald format die de originele string representeert.
 
@@ -529,5 +535,5 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjM0MjIyOSw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbLTE0Mjc3OTE2NDIsNzA1NTkyNjQwXX0=
 -->
