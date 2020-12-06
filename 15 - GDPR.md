@@ -53,8 +53,19 @@
 ### Fysieke beveiliging
 - Probeer diefstal te voorkomen
 + Houd de werkplaats opgeruimd
-- Wees aandachtig waar print-outs en documenten liggen en scherm deze af voor onbevoegden
+- Scherm print-outs en documenten af voor onbevoegden
 + Meld steeds verdachte activiteiten.
+
+### Afdwingen
+- Afdwingen van de AUP
+  - Gebruikers INFORMEREN
+  - Noodzakelijkheid duiden
+  - Awareness creëren
+
+## Gedragscode voor de informatiebeheerder
+### Gedragscode
+- Wat mag een beheerder doen?
++ Waar stopt de privacy van een gebruiker?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NTM4OTc2NywzOTM4NTUwNTFdfQ==
+eyJoaXN0b3J5IjpbNzMxMTA2ODQ3LDM5Mzg1NTA1MV19
 -->
