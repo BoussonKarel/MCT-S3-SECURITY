@@ -1,9 +1,8 @@
 # 6 - Penetration testing
-**Bewustwording van security**
-**Testen van security**
-
-**Wat gebeurt er écht?**
-**Wat (kan) de hacker doen?**
+- **Bewustwording van security**
+- **Testen van security**
++ **Wat gebeurt er écht?**
++ **Wat (kan) de hacker doen?**
 
 **Black-box testing**
 Je weet niets over de infrastructuur van het bedrijf etc...
@@ -20,8 +19,8 @@ Je krijgt uitleg, eventueel een admin account. Je kan zien welke software en inf
 
 *Heeft ook de voordelen van white box: je vindt zaken die je niet vond met black box.*
 
-**Wettelijke beperkingen!!**
-**Wat met aansprakelijkheid?**
+- **Wettelijke beperkingen!!**
+- **Wat met aansprakelijkheid?**
 
 ## Reconaisance Fase 1 / Information gathering
 Algemene info, bedrijfsinfo:
@@ -75,5 +74,5 @@ A.d.h.v. RAT (Remote Access Tool), backdoors...
 - Condifentiality !
 - Legaliteit !
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NDAxNTQ3MF19
+eyJoaXN0b3J5IjpbMTM5MzQ5NTk5NCwtOTc0MDE1NDcwXX0=
 -->
