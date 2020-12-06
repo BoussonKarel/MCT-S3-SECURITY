@@ -11,23 +11,22 @@
   - Availability (Beschikbaarheid)
 
 ## Bedreigingen
-- Systeemfouten
-- Gebeurtenissen
+- **Systeemfouten**
+- **Gebeurtenissen**
   - Brand
   - Stroomuitval
   - ...
-- Intern
-*Ongeveer 80% van de problemen wordt intern veroorzaakt.*
-  - Diefstal *Kans op diefstal > elitaire Russian hacker.**
+- **Intern**
+*~80% van de problemen wordt intern veroorzaakt.*
+  - Diefstal (*grotere kans dan elitaire Russian hacker*)
   - Wraak
   - ...
-
-Extern
-- "Hackers"
-- Spionage
-- ...
+- **Extern**
+  - "Hackers"
+  - Spionage
+  - ...
 ---
-Kans op een defect is een zekerheid (100%)
+**Kans op een defect** is een **zekerheid** (100%)
 
 ## Phishing
 - Over e-mail
@@ -36,6 +35,7 @@ Kans op een defect is een zekerheid (100%)
 - Moeilijk herkenbaar
 + Meest voorkomende vorm van fraude
 + Meest uitgebuite kwetsbaarheid v/e organisatie
+- Meest voorkomende en
 
 ### Geavanceerde vormen
 **Spear Phishing**
@@ -165,6 +165,6 @@ Steeds "a thin line"...
 - Diefstal
 - Aanslag
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NTQzMzY1MCwtMTY4MzIyNDU0NCwtMT
-Q5NjUzMjc1NCwxMjM1NzAzNTUwLC0xMDAyNzI4MzkwXX0=
+eyJoaXN0b3J5IjpbLTE1NjY3MDgxODgsLTE2ODMyMjQ1NDQsLT
+E0OTY1MzI3NTQsMTIzNTcwMzU1MCwtMTAwMjcyODM5MF19
 -->
