@@ -510,11 +510,16 @@ SSL betekent dat het niet kan worden afgeluisterd, dit betekent niet dat de site
 **Wat is Schneier's Law?**
 Iedereen kan een algoritme creëren waarvan hij hem zelf niet eens kan kraken. Het lastige is een algoritme creëren dat niemand anders kan kraken.
 
-Het lastige aan een algoritme creëren is dat niemand hem kan breken, zelfs na jaren van analyse. En dat kan je enkel bewijze door jarenlange analyse door de beste cryptogr
+Het lastige aan een algoritme creëren is dat niemand hem kan breken, zelfs na jaren van analyse. En dat kan je enkel bewijze door jarenlange analyse door de beste cryptografen.
+
+Laat het ontwerpen van crypto over aan professionals. *Een programmeur is geen wiskundige expert. Een wiskundige is geen programmeur.*
 
 **Wat is PKI?**
 Public Key Infrastructure
 ![enter image description here](https://i.imgur.com/A5r9ZG8.png)
+
+---
+![enter image description here](https://i.imgur.com/nsilNeY.png)
 +
 ![enter image description here](https://i.imgur.com/9AOiOy1.png)
 
@@ -532,10 +537,11 @@ Het Diffie-Hellman protocol wordt gebruikt om:
 **Wat is een exploit?**
 Making use of (a situation) in a way considered unfair.
 
-**Wat is reverse engeneering?**
+**Wat is reverse engineering?**
 Het onderzoeken van een product om daaruit af te leiden wat de eisen zijn waaraan het product probeert te voldoen, of om de precieze interne werking ervan te achterhalen.
 
-**Shellcode**: Stuk uitvoerbare code voorgesteld door een sequentie hexadecimaal geëncodeerde karakters met als bedoeling die code ergens gaan te injecteren in een invulveld gevoelig voor buffer overflow.
+**Wat is Shellcode?**
+Stuk uitvoerbare code voorgesteld door een sequentie hexadecimaal geëncodeerde karakters met als bedoeling die code ergens gaan te injecteren in een invulveld gevoelig voor buffer overflow.
 
 **Enumeration**: enumereren van kwetsbaarheden door nmap, vulnerability scanner...
 
@@ -573,5 +579,5 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1OTk2NDEzNSw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbLTYzNTg0NDYyLDcwNTU5MjY0MF19
 -->
