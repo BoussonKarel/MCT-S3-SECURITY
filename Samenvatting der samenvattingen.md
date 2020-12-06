@@ -279,7 +279,12 @@ Software die geld verdient door advertenties door je strot te duwen..
 **Wat is scareware?**
 Software die de gebruiker misleidt om geïnfecteerde website te bezoeken.
 
-Wat is RAT?
+**Wat is het Chernobyl virus?**
+Het eerste virus die de BIOS wist.
+
+**Wat zijn homoglyphs (homogliefen)?**
+Een karakter dat er op het eerste gez
+
 Wat is scareware, homoglyphen...
 
 # Cloud
@@ -437,5 +442,5 @@ Antwoorden op complexe vragen soms heel evident
 | RTO | Recovery Time Objective |
 | ICS | Industrial Control System |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzODQzMzUwNSw3MDU1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbMjEwODU5MzQxMiw3MDU1OTI2NDBdfQ==
 -->
