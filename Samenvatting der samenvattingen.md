@@ -2,9 +2,9 @@
 
 # Intro
 **Welke doelen kunnen worden bedreigd?**
-Infrastructuur
-Gegevens
-Operationaliteit
+- Infrastructuur
+- Gegevens
+- Operationaliteit
 
 **Wat is het CIA model?**
 |  |  |
