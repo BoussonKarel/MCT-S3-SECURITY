@@ -207,6 +207,7 @@ Ze voldoen aan het CIA model.
 
 **Wat is het grandfather-father-son systeem?**
 Een back-up rotatiesysteem waarbij er drie of meer cycli zijn, zoals dagelijks, wekelijks en maandelijks.
+
 ![enter image description here](https://i.imgur.com/F18PkwQ.png)
 
 # Pentesting
@@ -598,6 +599,6 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTk3OTIyOTMsMTM0NTc0NTEzMiw3MD
-U1OTI2NDBdfQ==
+eyJoaXN0b3J5IjpbMjE0MTE5NzY0MSwtMTg5OTc5MjI5MywxMz
+Q1NzQ1MTMyLDcwNTU5MjY0MF19
 -->
