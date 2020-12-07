@@ -13,13 +13,13 @@
 | **Integrity** | Integriteit |
 | **Availability** | Beschikbaarheid |
 
-**Geef een voorbeeld van Confidentiality**
+**Geef een voorbeeld van Confidentiality:**
 De punten van een andere leerling kunnen raadplegen door te hacken.
 
-**Geef een voorbeeld van Integrity**
+**Geef een voorbeeld van Integrity:**
 De punten kunnen aanpassen door te hacken.
 
-**Geef een voorbeeld van Availibility**
+**Geef een voorbeeld van Availibility:**
 IBAMAFLEX kunnen platleggen
 
 **Wat is de formule van risico?**
@@ -599,6 +599,6 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE0MTE5NzY0MSwtMTg5OTc5MjI5MywxMz
+eyJoaXN0b3J5IjpbMTA5MDg4MjY5MCwtMTg5OTc5MjI5MywxMz
 Q1NzQ1MTMyLDcwNTU5MjY0MF19
 -->
