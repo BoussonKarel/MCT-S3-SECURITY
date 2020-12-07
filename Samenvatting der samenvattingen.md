@@ -23,6 +23,7 @@ De punten kunnen aanpassen door te hacken.
 IBAMAFLEX kunnen platleggen
 
 **Wat is de formule van risico?**
+
 ![](https://i.imgur.com/WFO1L5R.png)
 
 **Welke factoren dragen bij aan een risico?**
@@ -599,6 +600,6 @@ Antwoorden op complexe vragen soms heel evident
 | ICS | Industrial Control System |
 | SCADA | Supervisory Control And Data Acquisition |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MDg4MjY5MCwtMTg5OTc5MjI5MywxMz
-Q1NzQ1MTMyLDcwNTU5MjY0MF19
+eyJoaXN0b3J5IjpbMTI5NTI1MiwtMTg5OTc5MjI5MywxMzQ1Nz
+Q1MTMyLDcwNTU5MjY0MF19
 -->
